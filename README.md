@@ -1,3 +1,6 @@
+## Repos
+- [ ] [Learning](https://github.com/amitness/learning)
+
 ### Attention Mechanism
 - [ ] [Attention? An Other Perspective! Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
 - [ ] [Attention? An Other Perspective! Part 2](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part2/)
