@@ -39,3 +39,6 @@
 
 ### Computer Vision
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
+
+### Evaluation Metrics
+- [ ] [Youtube: What is the BLEU metric?](https://www.youtube.com/watch?v=M05L1DhFqcw) `0:04:41`
