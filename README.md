@@ -7,6 +7,9 @@
 ### Books
 - [ ] [Online: Dive into Deep Learning](https://d2l.ai/)
 
+### Research Paper Explanations
+- [X] [Youtube: Attention Is All You Need - Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro) `0:27:06`
+
 ### Recurrrent Neural Networks
 - [X] [Article: What is teacher Forcing?](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
 
@@ -24,6 +27,7 @@
 - [ ] [Article: Why multi-head self attention works: math, intuitions and 10+1 hidden insights](https://theaisummer.com/self-attention/)
 - [ ] [Article: Multi-head attention mechanism: “queries”, “keys”, and “values,” over and over again](https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/)
 - [ ] [Article: How Attention works in Deep Learning: understanding the attention mechanism in sequence models](https://theaisummer.com/attention/)
+- [ ] [Article: Transformers Explained Visually (Part 3): Multi-head Attention, deep dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 - [ ] [Youtube: RASA Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 	- [ ] [Introducing The Algorithm Whiteboard](https://www.youtube.com/watch?v=wWNMST6t1TA) `0:01:16`
 	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`
