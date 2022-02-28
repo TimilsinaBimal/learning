@@ -1,20 +1,29 @@
 ### Repositories
-- [GitHub: Learning](https://github.com/amitness/learning)
+- [ ] [GitHub: Learning](https://github.com/amitness/learning)
+
+### Websites
+- [ ] [The AI Summer](https://theaisummer.com/)
+
+### Books
+- [ ] [Online: Dive into Deep Learning](https://d2l.ai/)
 
 ### Recurrrent Neural Networks
 - [X] [Article: What is teacher Forcing?](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
 
-### Attention Mechanism
+### State-Of-The-Art (SOTA) Models
 - [X] [Article: Attention? An Other Perspective! Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
 - [X] [Article: Attention? An Other Perspective! Part 2](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part2/)
-- [ ] [Article: Attention? An Other Perspective! Part 3](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part3/)
-- [ ] [Article: Attention? An Other Perspective! Part 4](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part4/)
+- [X] [Article: Attention? An Other Perspective! Part 3](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part3/)
+- [X] [Article: Attention? An Other Perspective! Part 4](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part4/)
 - [ ] [Article: Attention? An Other Perspective! Part 5](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part5/)
 - [X] [Article: Attention Mechanisms in Recurrent Neural Networks (RNNs) With Keras](https://blog.paperspace.com/seq-to-seq-attention-mechanism-keras/)
 - [ ] [Article: Machine Translation With Sequence To Sequence Models And Dot Attention Mechanism](https://blog.paperspace.com/nlp-machine-translation-with-keras/)
-- [ ] [Article: Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)
+- [X] [Article: Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)
 - [ ] [Article: Attention and Its different Forms](https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc)
 - [ ] [Article: Attention: Attention?](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+- [ ] [Article: Why multi-head self attention works: math, intuitions and 10+1 hidden insights](https://theaisummer.com/self-attention/)
+- [ ] [Article: Multi-head attention mechanism: “queries”, “keys”, and “values,” over and over again](https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/)
+- [ ] [Article: How Attention works in Deep Learning: understanding the attention mechanism in sequence models](https://theaisummer.com/attention/)
 - [ ] [Youtube: RASA Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 	- [ ] [Introducing The Algorithm Whiteboard](https://www.youtube.com/watch?v=wWNMST6t1TA) `0:01:16`
 	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`
@@ -37,7 +46,7 @@
 	- [ ] [Rasa Algorithm Whiteboard - Subword Embeddings](https://www.youtube.com/watch?v=kNw9dpzp5RU) `0:11:58`
 	- [ ] [Rasa Algorithm Whiteboard - Implementation of Subword Embeddings](https://www.youtube.com/watch?v=8D3Gamk1Jig) `0:10:01`
 	- [ ] [Rasa Algorithm Whiteboard - BytePair Embeddings](https://www.youtube.com/watch?v=-0IjF-7OB3s) `0:12:44`
-- [ ] [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8) `0:15:00`
+- [ ] [Youtuve: Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8) `0:15:00`
 
 
 ### Computer Vision
