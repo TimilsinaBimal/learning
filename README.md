@@ -7,6 +7,9 @@
 ### Books
 - [ ] [Online: Dive into Deep Learning](https://d2l.ai/)
 
+### Research Papers
+- [ ] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) `PDF`
+
 ### Research Paper Explanations
 - [X] [Youtube: Attention Is All You Need - Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro) `0:27:06`
 
