@@ -1,5 +1,8 @@
-## Repos
-- [ ] [GitHub: Learning](https://github.com/amitness/learning)
+### Repositories
+- [GitHub: Learning](https://github.com/amitness/learning)
+
+### Recurrrent Neural Networks
+- [X] [Article: What is teacher Forcing?](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
 
 ### Attention Mechanism
 - [X] [Article: Attention? An Other Perspective! Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
