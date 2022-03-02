@@ -15,10 +15,8 @@
 - [X] [Youtube: Attention Is All You Need - Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro) `0:27:06`
 - [ ] [Notion: Paper Notes by @yobibyte](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
 
-### Recurrrent Neural Networks
+### Natural Language Processing
 - [X] [Article: What is teacher Forcing?](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
-
-### State-Of-The-Art (SOTA) Models
 - [X] [Article: Attention? An Other Perspective! Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
 - [X] [Article: Attention? An Other Perspective! Part 2](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part2/)
 - [X] [Article: Attention? An Other Perspective! Part 3](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part3/)
@@ -33,28 +31,62 @@
 - [ ] [Article: Multi-head attention mechanism: “queries”, “keys”, and “values,” over and over again](https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/)
 - [ ] [Article: How Attention works in Deep Learning: understanding the attention mechanism in sequence models](https://theaisummer.com/attention/)
 - [ ] [Article: Transformers Explained Visually (Part 3): Multi-head Attention, deep dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
-- [ ] [Youtube: RASA Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
+- [ ] [Youtube: Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 	- [ ] [Introducing The Algorithm Whiteboard](https://www.youtube.com/watch?v=wWNMST6t1TA) `0:01:16`
 	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`
 	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 2: Design Decisions](https://www.youtube.com/watch?v=KUGGuJ0aTL8) `0:15:06`
 	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 3: Benchmarking](https://www.youtube.com/watch?v=oj5oPGDlep4) `0:22:34`
-	- [ ] [Rasa Algorithm Whiteboard - Embeddings 1: Just Letters](https://www.youtube.com/watch?v=mWvnlVw_LiY) `0:13:48`
-	- [ ] [Rasa Algorithm Whiteboard - Embeddings 2: CBOW and Skip Gram](https://www.youtube.com/watch?v=BWaHLmG1lak) `0:19:24`
-	- [ ] [Rasa Algorithm Whiteboard - Embeddings 3: GloVe](https://www.youtube.com/watch?v=QoUYlxl1RGI) `0:19:12`
-	- [ ] [Rasa Algorithm Whiteboard - Embeddings 4: Whatlies](https://www.youtube.com/watch?v=FwkwC7IJWO0) `0:14:03`
-	- [ ] [Rasa Algorithm Whiteboard - Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) `0:14:32`
-	- [ ] [Rasa Algorithm Whiteboard - Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) `0:12:26`
-	- [ ] [Rasa Algorithm Whiteboard - Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c) `0:10:55`
-	- [ ] [Rasa Algorithm Whiteboard: Attention 4 - Transformers](https://www.youtube.com/watch?v=EXNBy8G43MM) `0:14:34`
+	- [ ] [Rasa Algorithm Whiteboard - Understanding Word Embeddings 1: Just Letters](https://www.youtube.com/watch?v=mWvnlVw_LiY) `0:13:48`
+	- [ ] [Rasa Algorithm Whiteboard - Understanding Word Embeddings 2: CBOW and Skip Gram](https://www.youtube.com/watch?v=BWaHLmG1lak) `0:19:24`
+	- [ ] [Rasa Algorithm Whiteboard - Understanding Word Embeddings 3: GloVe](https://www.youtube.com/watch?v=QoUYlxl1RGI) `0:19:12`
+	- [ ] [Rasa Algorithm Whiteboard - Understanding Word Embeddings 4: Whatlies](https://www.youtube.com/watch?v=FwkwC7IJWO0) `0:14:03`
+	- [ ] [Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) `0:14:32`
+	- [ ] [Rasa Algorithm Whiteboard - Transformers & Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) `0:12:26`
+	- [ ] [Rasa Algorithm Whiteboard - Transformers & Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c) `0:10:55`
+	- [ ] [Rasa Algorithm Whiteboard: Transformers & Attention 4 - Transformers](https://www.youtube.com/watch?v=EXNBy8G43MM) `0:14:34`
 	- [ ] [Rasa Algorithm Whiteboard - StarSpace](https://www.youtube.com/watch?v=ZT3_9Kjx7oI) `0:11:46`
 	- [ ] [Rasa Algorithm Whiteboard - TED Policy](https://www.youtube.com/watch?v=j90NvurJI4I) `0:16:10`
 	- [ ] [Rasa Algorithm Whiteboard - TED in Practice](https://www.youtube.com/watch?v=d8JMJMvErSg) `0:14:54`
 	- [ ] [Rasa Algorithm Whiteboard - Response Selection](https://www.youtube.com/watch?v=2jvyWngHEJM) `0:12:07`
 	- [ ] [Rasa Algorithm Whiteboard - Response Selection: Implementation](https://www.youtube.com/watch?v=0tXkFScW0hE) `0:09:25`
-	- [ ] [Rasa Algorithm Whiteboard - Countvectors](https://www.youtube.com/watch?v=Ju7l5ADg10U) `0:13:32`
-	- [ ] [Rasa Algorithm Whiteboard - Subword Embeddings](https://www.youtube.com/watch?v=kNw9dpzp5RU) `0:11:58`
+	- [ ] [Rasa Algorithm Whiteboard - Countvectors and Spelling Errors](https://www.youtube.com/watch?v=Ju7l5ADg10U) `0:13:32`
+	- [ ] [Rasa Algorithm Whiteboard - Subword Embeddings and Spelling](https://www.youtube.com/watch?v=kNw9dpzp5RU) `0:11:58`
 	- [ ] [Rasa Algorithm Whiteboard - Implementation of Subword Embeddings](https://www.youtube.com/watch?v=8D3Gamk1Jig) `0:10:01`
 	- [ ] [Rasa Algorithm Whiteboard - BytePair Embeddings](https://www.youtube.com/watch?v=-0IjF-7OB3s) `0:12:44`
+	- [ ] [Rasa Algorithm Whiteboard: Levenshtein Vectors](https://www.youtube.com/watch?v=e9JdIKgf0QY) `0:11:10`
+	- [ ] [Rasa Algorithm Whiteboard: Measuring Bias in Word Embeddings](https://www.youtube.com/watch?v=UwAvyACOrWs) `0:11:19`
+	- [ ] [Rasa Algorithm Whiteboard - Using Projections to Remove Bias from Word Embeddings](https://www.youtube.com/watch?v=8xQbWlCEHRw) `0:10:41`
+	- [ ] [Rasa Algorithm Whiteboard: Debiasing via Projections Doesn't Always Work](https://www.youtube.com/watch?v=MHdAd48dANo) `0:12:28`
+	- [ ] [Rasa Algorithm Whiteboard - The Maths Behind De-Biasing in Word Embeddings](https://www.youtube.com/watch?v=2ROP1QFKsqc) `0:14:25`
+	- [ ] [Rasa Algorithm Whiteboard - Word Analogies don't Hold in General](https://www.youtube.com/watch?v=u6EmngzBUEU) `0:10:44`
+	- [ ] [Rasa Algorithm Whiteboard - Universal Sentence Encoder](https://www.youtube.com/watch?v=kHdt297eX7Y) `0:11:43`
+	- [ ] [Rasa Algorithm Whiteboard - General Embeddings vs. Specific Problems](https://www.youtube.com/watch?v=V_h_tjAdWT0) `0:11:21`
+	- [ ] [Rasa Algorithm Whiteboard - RulePolicy](https://www.youtube.com/watch?v=dmD3sqzxDXs) `0:12:08`
+	- [ ] [Rasa Algorithm Whiteboard - Bulk Labelling](https://www.youtube.com/watch?v=YsMoGd7sYMQ) `0:14:18`
+	- [ ] [Rasa Algorithm Whiteboard - Toxic Language Detection](https://www.youtube.com/watch?v=Czto6GzJah8) `0:14:44`
+	- [ ] [Rasa Algorithm Whiteboard - Lexical Ambiguity](https://www.youtube.com/watch?v=byy19WPLPBQ) `0:11:34`
+	- [ ] [Rasa Algorithm Whiteboard - Fallback Detection](https://www.youtube.com/watch?v=VldHznqAYlE) `0:12:30`
+	- [ ] [Rasa Algorithm Whiteboard - Language Detection](https://www.youtube.com/watch?v=Z0pnQcWHBZE) `0:16:53`
+	- [ ] [Rasa Algorithm Whiteboard - Incremental Training](https://www.youtube.com/watch?v=FipRjQRaCz8) `0:12:51`
+	- [ ] [Rasa Algorithm Whiteboard - Bulk Labelling UI](https://www.youtube.com/watch?v=T0dDetqgra4) `0:02:57`
+	- [ ] [Rasa Algorithm Whiteboard - Language Agnostic BERT](https://www.youtube.com/watch?v=7tAWk_Coj-s) `0:12:50`
+	- [ ] [Rasa Algorithm Whiteboard - Iterate on Data](https://www.youtube.com/watch?v=xpm17ibm0E8) `0:13:32`
+	- [ ] [Rasa Algorithm Whiteboard - Meaningful Benchmarks](https://www.youtube.com/watch?v=GTClb8RQSGM) `0:14:40`
+	- [ ] [Rasa Algorithm Whiteboard - Model Confidence v2](https://www.youtube.com/watch?v=ev1tNXPo3tE) `0:14:02`
+	- [ ] [Rasa Algorithm Whiteboard - FlashText Entity Extraction](https://www.youtube.com/watch?v=IHHKrqgFgs4) `0:13:46`
+	- [ ] [Rasa Algorithm Whiteboard - Sparsity](https://www.youtube.com/watch?v=0LLZMgUIKwo) `0:10:57`
+	- [ ] [Rasa Algorithm Whiteboard - UnexpecTED Intent Policy](https://www.youtube.com/watch?v=ITwgNNfyG7A) `0:13:31`
+	- [ ] [Rasa Algorithm Whiteboard - UnexpecTEDIntentPolicy Details](https://www.youtube.com/watch?v=lvmBSZrbE-I) `0:15:51`
+	- [ ] [Rasa Algorithm Whiteboard - Finding Unexpected Intents](https://www.youtube.com/watch?v=iDUNi5hU3nk) `0:10:20`
+	- [ ] [Rasa Algorithm Whiteboard - Typo Robustness](https://www.youtube.com/watch?v=HfCd6lXQGWg) `0:11:27`
+	- [ ] [Rasa Algorithm Whiteboard - Bad Label Detection](https://www.youtube.com/watch?v=QdAjt33rhtc) `0:15:25`
+	- [ ] [Rasa Algorithm Whiteboard - Transliteration](https://www.youtube.com/watch?v=IUMTWstbfuM) `0:08:55`
+	- [ ] [Rasa Algorithm Whiteboard - Graphs as a Backend](https://www.youtube.com/watch?v=ipfm_gO1if0) `0:11:50`
+	- [ ] [Rasa Algorithm Whiteboard - Measuring Quality with Markers](https://www.youtube.com/watch?v=iy5gnikdlJo) `0:11:02`
+	- [ ] [Rasa Algorithm Whiteboard - NER for Personal Indentifiable Information is Hard](https://www.youtube.com/watch?v=pSSO9cYK-_U) `0:14:19`
+	- [ ] [Rasa Algorithm Whiteboard - Splitting Intent Classes](https://www.youtube.com/watch?v=Z1FCjUrWRuA) `0:12:50`
+	- [ ] [Rasa Algorithm Whiteboard - Spelling Correction](https://www.youtube.com/watch?v=vxMCkQ_URFQ) `0:11:00`
+	- [ ] [Rasa Algorithm Whiteboard - Translation Issues](https://www.youtube.com/watch?v=94K4LU_Pe8Y) `0:11:29`
 - [ ] [Youtube: NLP for Developers](https://www.youtube.com/playlist?list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv)
 	- [ ] [NLP for Developers: Transfer Learning | Rasa](https://www.youtube.com/watch?v=hJ1hzEJE16c) `0:06:45`
 	- [ ] [NLP for Developers: Regular Expressions AKA Regex | Rasa](https://www.youtube.com/watch?v=jCE9qHkSyoE) `0:06:58`
