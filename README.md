@@ -58,6 +58,7 @@
 - [ ] [Youtube: NLP for Developers](https://www.youtube.com/playlist?list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv)
 	- [ ] [NLP for Developers: Transfer Learning | Rasa](https://www.youtube.com/watch?v=hJ1hzEJE16c&list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv&index=1) `0:6:45`
 - [ ] [Youtube: Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8) `0:15:00`
+- [ ] [Youtube: Ivan Bilan: Understanding and Applying Self-Attention for NLP | PyData Berlin 2018](https://www.youtube.com/watch?v=OYygPG4d9H0) `0:37:40`
 
 
 ### Computer Vision
