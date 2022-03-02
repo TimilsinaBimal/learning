@@ -56,7 +56,26 @@
 	- [ ] [Rasa Algorithm Whiteboard - Implementation of Subword Embeddings](https://www.youtube.com/watch?v=8D3Gamk1Jig) `0:10:01`
 	- [ ] [Rasa Algorithm Whiteboard - BytePair Embeddings](https://www.youtube.com/watch?v=-0IjF-7OB3s) `0:12:44`
 - [ ] [Youtube: NLP for Developers](https://www.youtube.com/playlist?list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv)
-	- [ ] [NLP for Developers: Transfer Learning | Rasa](https://www.youtube.com/watch?v=hJ1hzEJE16c&list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv&index=1) `0:6:45`
+	- [ ] [NLP for Developers: Transfer Learning | Rasa](https://www.youtube.com/watch?v=hJ1hzEJE16c) `0:06:45`
+	- [ ] [NLP for Developers: Regular Expressions AKA Regex | Rasa](https://www.youtube.com/watch?v=jCE9qHkSyoE) `0:06:58`
+	- [ ] [NLP for Developers: Featurizers | Rasa](https://www.youtube.com/watch?v=PBzGxFxMCuA) `0:06:53`
+	- [ ] [NLP for Developers: Annotating Language Data | Rasa](https://www.youtube.com/watch?v=OqdPoWmRPBU) `0:07:26`
+	- [ ] [NLP for Developers: Multilingual NLP | Rasa](https://www.youtube.com/watch?v=jMGgT4lgI28) `0:05:39`
+	- [ ] [NLP for Developers: Non-English Pipeline Components | Rasa](https://www.youtube.com/watch?v=fqwrGzsYAi8) `0:09:51`
+	- [ ] [NLP for Developers: GPT-3 | Rasa](https://www.youtube.com/watch?v=ZNeNMTSMA5Y) `0:07:45`
+	- [ ] [NLP for Developers: End to End Machine Learning | Rasa](https://www.youtube.com/watch?v=w6SQ4-2tCA4) `0:06:11`
+	- [ ] [NLP for Developers: Intents | Rasa](https://www.youtube.com/watch?v=JOf6CNJUzEo) `0:06:26`
+	- [ ] [NLP 4 Developers: Stop Words | Rasa](https://www.youtube.com/watch?v=QWzx7ysgdmI) `0:05:33`
+	- [ ] [NLP 4 Developers: Confidence | Rasa](https://www.youtube.com/watch?v=7u8hrogfPZI) `0:04:42`
+	- [ ] [NLP for Developers: Shrinking Transformers | Rasa](https://www.youtube.com/watch?v=hU6lu15uA-o) `0:05:16`
+	- [ ] [NLP for Developers: BERT | Rasa](https://www.youtube.com/watch?v=zMxvS7hD-Ug) `0:05:50`
+	- [ ] [NLP for Developers: Tokenization | Rasa](https://www.youtube.com/watch?v=Z_GGVn6LBRI) `0:04:59`
+	- [ ] [NLP for Developers: Conversational Representations from Transformers (ConveRT) | Rasa](https://www.youtube.com/watch?v=FHaLmOigX0M) `0:05:46`
+	- [ ] [NLP for Developers: Transformers | Rasa](https://www.youtube.com/watch?v=KN3ZL65Dze0) `0:05:34`
+	- [ ] [NLP for Developers: Word Embeddings | Rasa](https://www.youtube.com/watch?v=oUpuABKoElw) `0:06:36`
+	- [ ] [NLP for Developers: Trailer | Rasa](https://www.youtube.com/watch?v=-G36q8_cYsc) `0:00:32`
+
+
 - [ ] [Youtube: Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8) `0:15:00`
 - [ ] [Youtube: Ivan Bilan: Understanding and Applying Self-Attention for NLP | PyData Berlin 2018](https://www.youtube.com/watch?v=OYygPG4d9H0) `0:37:40`
 
