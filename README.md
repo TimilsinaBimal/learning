@@ -11,6 +11,10 @@
 - [ ] [Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) `PDF`
 - [X] [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473) `PDF`
 
+### Learn to Perform Scientific Computations using NumPy
+- [ ] [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
+
+
 ### Understand Research Papers in details
 - [X] [Youtube: Attention Is All You Need - Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro) `0:27:06`
 - [ ] [Notion: Paper Notes by @yobibyte](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
