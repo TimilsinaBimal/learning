@@ -7,11 +7,11 @@
 ### Books
 - [ ] [Online: Dive into Deep Learning](https://d2l.ai/)
 
-### Research Papers
+### Learn to Perform Literature Review Using Research Papers
 - [ ] [Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) `PDF`
 - [X] [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473) `PDF`
 
-### Research Paper Explanations
+### Understand Research Papers in details
 - [X] [Youtube: Attention Is All You Need - Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro) `0:27:06`
 - [ ] [Notion: Paper Notes by @yobibyte](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
 - [ ] [Youtube: Research Paper Walkthrough](https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc)
@@ -87,7 +87,7 @@
 	- [ ] [Improving Unsupervised Dialogue Topic Segmentation with Utterance-Pair Coherence Scoring (Summary)](https://www.youtube.com/watch?v=i8WUJZk5_I8) `0:16:33`
 
 
-### Natural Language Processing
+### Learn to Implement Natural Language Processing
 - [X] [Article: What is teacher Forcing?](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
 - [X] [Article: Attention? An Other Perspective! Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
 - [X] [Article: Attention? An Other Perspective! Part 2](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part2/)
@@ -184,8 +184,8 @@
 - [ ] [Youtube: Ivan Bilan: Understanding and Applying Self-Attention for NLP | PyData Berlin 2018](https://www.youtube.com/watch?v=OYygPG4d9H0) `0:37:40`
 
 
-### Computer Vision
+### Learn to implement Computer Vision Models
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
 
-### Evaluation Metrics
+### Learn to evaluate Machine Learning Models
 - [ ] [Youtube: What is the BLEU metric?](https://www.youtube.com/watch?v=M05L1DhFqcw) `0:04:41`
