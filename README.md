@@ -203,3 +203,7 @@
 
 ### Learn to evaluate Machine Learning Models
 - [ ] [Youtube: What is the BLEU metric?](https://www.youtube.com/watch?v=M05L1DhFqcw) `0:04:41`
+
+
+### Learn to Write better Code
+- [ ] [Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
