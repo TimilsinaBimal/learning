@@ -182,15 +182,15 @@
 	- [ ] [NLP for Developers: Transformers | Rasa](https://www.youtube.com/watch?v=KN3ZL65Dze0) `0:05:34`
 	- [ ] [NLP for Developers: Word Embeddings | Rasa](https://www.youtube.com/watch?v=oUpuABKoElw) `0:06:36`
 	- [ ] [NLP for Developers: Trailer | Rasa](https://www.youtube.com/watch?v=-G36q8_cYsc) `0:00:32`
-- [ ] [Youtube: Hugging Face Course Chapter 1](https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ)
-	- [ ] [Welcome to the Hugging Face course](https://www.youtube.com/watch?v=00GKzGyWFEs) `0:04:33`
-	- [ ] [The pipeline function](https://www.youtube.com/watch?v=tiZFewofSLM) `0:04:35`
-	- [ ] [What is Transfer Learning?](https://www.youtube.com/watch?v=BqqfQnyjmgg) `0:04:06`
-	- [ ] [The carbon footprint of Transformers](https://www.youtube.com/watch?v=ftWlj4FBHTg) `0:05:24`
-	- [ ] [The Transformer architecture](https://www.youtube.com/watch?v=H39Z_720T5s) `0:02:44`
-	- [ ] [Transformer models: Encoders](https://www.youtube.com/watch?v=MUqNwgPjJvQ) `0:04:46`
-	- [ ] [Transformer models: Decoders](https://www.youtube.com/watch?v=d_ixlCubqQw) `0:04:26`
-	- [ ] [Transformer models: Encoder-Decoders](https://www.youtube.com/watch?v=0_4KEb08xrE) `0:06:47`
+- [X] [Youtube: Hugging Face Course Chapter 1](https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ)
+	- [X] [Welcome to the Hugging Face course](https://www.youtube.com/watch?v=00GKzGyWFEs) `0:04:33`
+	- [X] [The pipeline function](https://www.youtube.com/watch?v=tiZFewofSLM) `0:04:35`
+	- [X] [What is Transfer Learning?](https://www.youtube.com/watch?v=BqqfQnyjmgg) `0:04:06`
+	- [X] [The carbon footprint of Transformers](https://www.youtube.com/watch?v=ftWlj4FBHTg) `0:05:24`
+	- [X] [The Transformer architecture](https://www.youtube.com/watch?v=H39Z_720T5s) `0:02:44`
+	- [X] [Transformer models: Encoders](https://www.youtube.com/watch?v=MUqNwgPjJvQ) `0:04:46`
+	- [X] [Transformer models: Decoders](https://www.youtube.com/watch?v=d_ixlCubqQw) `0:04:26`
+	- [X] [Transformer models: Encoder-Decoders](https://www.youtube.com/watch?v=0_4KEb08xrE) `0:06:47`
 
 
 
