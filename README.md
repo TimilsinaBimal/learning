@@ -191,7 +191,18 @@
 	- [X] [Transformer models: Encoders](https://www.youtube.com/watch?v=MUqNwgPjJvQ) `0:04:46`
 	- [X] [Transformer models: Decoders](https://www.youtube.com/watch?v=d_ixlCubqQw) `0:04:26`
 	- [X] [Transformer models: Encoder-Decoders](https://www.youtube.com/watch?v=0_4KEb08xrE) `0:06:47`
-
+- [ ] [Youtube: Hugging Face Course Chapter 2](https://www.youtube.com/playlist?list=PLo2EIpI_JMQupmYlTIrUTWD_oV-kYA3Hx)
+	- [ ] [What happens inside the pipeline function? (PyTorch)](https://www.youtube.com/watch?v=1pedAIvTWXk) `0:04:52`
+	- [ ] [What happens inside the pipeline function? (TensorFlow)](https://www.youtube.com/watch?v=wVN12smEvqg) `0:05:00`
+	- [ ] [Instantiate a Transformers model (PyTorch)](https://www.youtube.com/watch?v=AhChOFRegn4) `0:03:20`
+	- [ ] [Instantiate a Transformers model (TensorFlow)](https://www.youtube.com/watch?v=d3JVgghSOew) `0:03:14`
+	- [ ] [Tokenizers overview](https://www.youtube.com/watch?v=VFp38yj8h3A) `0:00:56`
+	- [ ] [Word-based tokenizers](https://www.youtube.com/watch?v=nhJxYji1aho) `0:02:52`
+	- [ ] [Character-based tokenizers](https://www.youtube.com/watch?v=ssLq_EK2jLE) `0:03:01`
+	- [ ] [Subword-based tokenizers](https://www.youtube.com/watch?v=zHvTiHr506c) `0:03:28`
+	- [ ] [The tokenization pipeline](https://www.youtube.com/watch?v=Yffk5aydLzg) `0:03:23`
+	- [ ] [Batching inputs together (PyTorch)](https://www.youtube.com/watch?v=M6adb1j2jPI) `0:02:52`
+	- [ ] [Batching inputs together (TensorFlow)](https://www.youtube.com/watch?v=ROxrFOEbsQE) `0:02:51`
 
 
 - [ ] [Youtube: Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8) `0:15:00`
