@@ -208,6 +208,7 @@
 - [ ] [Youtube: Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8) `0:15:00`
 - [ ] [Youtube: Ivan Bilan: Understanding and Applying Self-Attention for NLP | PyData Berlin 2018](https://www.youtube.com/watch?v=OYygPG4d9H0) `0:37:40`
 - [X] [Article: Keyword Extraction](https://monkeylearn.com/keyword-extraction/)
+- [ ] [Article: 10 Popular Keyword Extraction Algorithms in Natural Language Processing](https://medium.com/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c)
 
 
 ### Learn to implement Computer Vision Models
