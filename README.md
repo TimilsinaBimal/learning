@@ -210,6 +210,7 @@
 - [X] [Article: Keyword Extraction](https://monkeylearn.com/keyword-extraction/)
 - [ ] [Article: 10 Popular Keyword Extraction Algorithms in Natural Language Processing](https://medium.com/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c)
 - [ ] [Article: Top 4 Sentence Embedding Techniques using Python!](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
+- [ ] [Article: An Essential Guide to Pretrained Word Embeddings for NLP Practitioners](https://www.analyticsvidhya.com/blog/2020/03/pretrained-word-embeddings-nlp/)
 
 
 ### Learn to implement Computer Vision Models
