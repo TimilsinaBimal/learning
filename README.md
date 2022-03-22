@@ -211,6 +211,9 @@
 - [ ] [Article: 10 Popular Keyword Extraction Algorithms in Natural Language Processing](https://medium.com/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c)
 - [ ] [Article: Top 4 Sentence Embedding Techniques using Python!](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
 - [ ] [Article: An Essential Guide to Pretrained Word Embeddings for NLP Practitioners](https://www.analyticsvidhya.com/blog/2020/03/pretrained-word-embeddings-nlp/)
+- [ ] [Article: From Word Embeddings to Sentence Embeddings — Part 1/3](https://medium.datadriveninvestor.com/from-word-embeddings-to-sentence-embeddings-part-1-3-7ba9a715e917)
+- [ ] [Article: From Word Embeddings to Sentence Embeddings — Part 2/3](https://medium.datadriveninvestor.com/from-word-embeddings-to-sentence-embeddings-part-2-3-21a5b03592a1)
+- [ ] [Article: From Word Embeddings to Sentence Embeddings — Part 3/3](https://medium.datadriveninvestor.com/from-word-embeddings-to-sentence-embeddings-part-3-3-e67cc4c217d7)
 
 
 ### Learn to implement Computer Vision Models
