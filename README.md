@@ -214,6 +214,7 @@
 - [ ] [Article: From Word Embeddings to Sentence Embeddings — Part 1/3](https://medium.datadriveninvestor.com/from-word-embeddings-to-sentence-embeddings-part-1-3-7ba9a715e917)
 - [ ] [Article: From Word Embeddings to Sentence Embeddings — Part 2/3](https://medium.datadriveninvestor.com/from-word-embeddings-to-sentence-embeddings-part-2-3-21a5b03592a1)
 - [ ] [Article: From Word Embeddings to Sentence Embeddings — Part 3/3](https://medium.datadriveninvestor.com/from-word-embeddings-to-sentence-embeddings-part-3-3-e67cc4c217d7)
+- [X] [Article: Keyword Extraction with BERT](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea)
 
 
 ### Learn to implement Computer Vision Models
