@@ -19,7 +19,7 @@
 - [X] [Youtube: Attention Is All You Need - Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro) `0:27:06`
 - [ ] [Notion: Paper Notes by @yobibyte](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
 - [ ] [Youtube: Research Paper Walkthrough](https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc)
-	- [ ] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings (Research Paper Walkthrough)](https://www.youtube.com/watch?v=ykClwtoLER8) `0:21:22`
+	- [X] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings (Research Paper Walkthrough)](https://www.youtube.com/watch?v=ykClwtoLER8) `0:21:22`
 	- [ ] [Leveraging BERT for Extractive Text Summarization on Lectures (Research Paper Walkthrough)](https://www.youtube.com/watch?v=JU6eSLsp6vI) `0:20:10`
 	- [ ] [Data Augmentation Techniques for Text Classification in NLP (Research Paper Walkthrough)](https://www.youtube.com/watch?v=-1unNLkwImw) `0:14:32`
 	- [ ] [CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery (Research Paper Walkthrough)](https://www.youtube.com/watch?v=AxMSd4EPVVc) `0:23:47`
