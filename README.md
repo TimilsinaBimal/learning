@@ -1,5 +1,6 @@
 ### Repositories
 - [ ] [GitHub: Learning](https://github.com/amitness/learning)
+- [ ] [Website: The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 
 ### Websites
 - [ ] [The AI Summer](https://theaisummer.com/)
