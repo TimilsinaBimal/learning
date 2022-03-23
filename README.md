@@ -10,6 +10,7 @@
 ### Learn to Perform Literature Review Using Research Papers
 - [ ] [Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) `PDF`
 - [X] [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473) `PDF`
+- [ ] [Paper: PERT: PRE-TRAINING BERT WITH PERMUTED LANGUAGE MODEL](https://arxiv.org/pdf/2203.06906v1.pdf) `PDF`
 
 ### Learn to Perform Scientific Computations using NumPy
 - [ ] [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
