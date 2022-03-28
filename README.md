@@ -237,10 +237,10 @@ Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) `PDF`
 - [ ] [Youtube: Hitesh Choudhary | MongoDB](https://www.youtube.com/playlist?list=PLzAGFfNxKFualSih9sm4FCRy9L7o_rVY8)
 	- [X] [what is mongoDB](https://www.youtube.com/watch?v=9JSG7Na2S4M) `0:08:59`
 	- [X] [How does mongoDB works](https://www.youtube.com/watch?v=bUqt1rzHu5A) `0:11:23`
-	- [ ] [What is mocha and need of mocha in mongodb](https://www.youtube.com/watch?v=aHayBvJc5ek) `0:10:39`
-	- [ ] [Big umbrella of MongoDB](https://www.youtube.com/watch?v=YepsJxgokPM) `0:10:14`
+	- [X] [What is mocha and need of mocha in mongodb](https://www.youtube.com/watch?v=aHayBvJc5ek) `0:10:39`
+	- [X] [Big umbrella of MongoDB](https://www.youtube.com/watch?v=YepsJxgokPM) `0:10:14`
 	- [ ] [How to install mongoDB on MAC](https://www.youtube.com/watch?v=MIByvzueqHQ) `0:12:43`
-	- [ ] [How to install mongoDB on Windows](https://www.youtube.com/watch?v=sluiQOXKUmQ) `0:07:56`
+	- [X] [How to install mongoDB on Windows](https://www.youtube.com/watch?v=sluiQOXKUmQ) `0:07:56`
 	- [ ] [Create and Read operation in MongoDB](https://www.youtube.com/watch?v=MXIpMcMGRds) `0:16:34`
 	- [ ] [ObjectID and BSON in mongoDB](https://www.youtube.com/watch?v=TQ4KFPzb6vI) `0:12:49`
 	- [ ] [Triple A and CRUD operations in mongoDB](https://www.youtube.com/watch?v=MWBQwWXu4jE) `0:07:45`
