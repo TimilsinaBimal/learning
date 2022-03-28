@@ -232,3 +232,42 @@ Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) `PDF`
 
 ### Learn to Write better Code
 - [ ] [Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
+
+### Learn to store and query to data into Database
+- [ ] [Youtube: Hitesh Choudhary | MongoDB](https://www.youtube.com/playlist?list=PLzAGFfNxKFualSih9sm4FCRy9L7o_rVY8)
+	- [X] [what is mongoDB](https://www.youtube.com/watch?v=9JSG7Na2S4M) `0:08:59`
+	- [X] [How does mongoDB works](https://www.youtube.com/watch?v=bUqt1rzHu5A) `0:11:23`
+	- [ ] [What is mocha and need of mocha in mongodb](https://www.youtube.com/watch?v=aHayBvJc5ek) `0:10:39`
+	- [ ] [Big umbrella of MongoDB](https://www.youtube.com/watch?v=YepsJxgokPM) `0:10:14`
+	- [ ] [How to install mongoDB on MAC](https://www.youtube.com/watch?v=MIByvzueqHQ) `0:12:43`
+	- [ ] [How to install mongoDB on Windows](https://www.youtube.com/watch?v=sluiQOXKUmQ) `0:07:56`
+	- [ ] [Create and Read operation in MongoDB](https://www.youtube.com/watch?v=MXIpMcMGRds) `0:16:34`
+	- [ ] [ObjectID and BSON in mongoDB](https://www.youtube.com/watch?v=TQ4KFPzb6vI) `0:12:49`
+	- [ ] [Triple A and CRUD operations in mongoDB](https://www.youtube.com/watch?v=MWBQwWXu4jE) `0:07:45`
+	- [ ] [UpdateOne and DeleteOne in #mongoDB](https://www.youtube.com/watch?v=EHXczTBSZK0) `0:10:39`
+	- [ ] [UpdateMany and deleteMany in mongoDB](https://www.youtube.com/watch?v=QVmcJK-ZR3o) `0:08:22`
+	- [ ] [Database issues with Update in mongodb](https://www.youtube.com/watch?v=8suRVB5h5-w) `0:10:19`
+	- [ ] [Getting more data in #mongodb](https://www.youtube.com/watch?v=nvmnuSzhmpg) `0:09:54`
+	- [ ] [Save bandwidth while querying in mongoDB](https://www.youtube.com/watch?v=tpuhvauuOIo) `0:11:28`
+	- [ ] [Understanding objects structure in mongoDB](https://www.youtube.com/watch?v=bcbiP8VFnfc) `0:13:25`
+	- [ ] [Understanding Arrays in mongoDB](https://www.youtube.com/watch?v=r8mxTAboud8) `0:07:58`
+	- [ ] [What is schema in mongoDB](https://www.youtube.com/watch?v=QiGVCOM-DfY) `0:11:25`
+	- [ ] [Database modeling mongoDB series](https://www.youtube.com/watch?v=N9JDiFiCbRM) `0:09:11`
+	- [ ] [Relation in database mongoDB](https://www.youtube.com/watch?v=HEXHy4JyDFc) `0:06:04`
+	- [ ] [One to one relation in mongo database with id](https://www.youtube.com/watch?v=KA9RrZEmUNg) `0:09:37`
+	- [ ] [One to one relation part 2](https://www.youtube.com/watch?v=-UmHaYpNJFM) `0:07:08`
+	- [ ] [One to many relation in mongo database](https://www.youtube.com/watch?v=t_9fgpsO_vM) `0:12:20`
+	- [ ] [Many to Many relation in mongoDB](https://www.youtube.com/watch?v=L3Pltb46n-M) `0:10:17`
+	- [ ] [MySQL vs MongoDB](https://www.youtube.com/watch?v=Ke4G-c94VBM) `0:06:44`
+	- [ ] [Exploring mocha, mongo and mongoose](https://www.youtube.com/watch?v=JVE4ceVjq9M) `0:07:43`
+	- [ ] [Creating our first student schema](https://www.youtube.com/watch?v=wQmObN1WIiE) `0:08:37`
+	- [ ] [Connecting with mongodb with mongoose](https://www.youtube.com/watch?v=Z-NneoBiLA4) `0:12:13`
+	- [ ] [BlueBird and Q promises](https://www.youtube.com/watch?v=vHYuQacSnzo) `0:04:31`
+	- [ ] [Hooks in mocha](https://www.youtube.com/watch?v=V4y6m-6OLgU) `0:06:09`
+	- [ ] [Describe and it blocks for mocha test](https://www.youtube.com/watch?v=l63go7BXKL8) `0:09:33`
+	- [ ] [Your first create test using mocha](https://www.youtube.com/watch?v=j6Y6iDQIflQ) `0:07:35`
+	- [ ] [Using beforeEach in mocha tests](https://www.youtube.com/watch?v=64GHHiu8lfk) `0:05:53`
+	- [ ] [A read test in mongoDB](https://www.youtube.com/watch?v=Y7mgDDYZCZ4) `0:10:47`
+	- [ ] [A delete test for mongoDB](https://www.youtube.com/watch?v=l3yAAETjOeI) `0:10:29`
+	- [ ] [An update test in mongoDB](https://www.youtube.com/watch?v=d3MYSgST48Q) `0:09:10`
+
