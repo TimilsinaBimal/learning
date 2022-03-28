@@ -220,6 +220,7 @@ Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) `PDF`
 - [ ] [Article: From Word Embeddings to Sentence Embeddings — Part 3/3](https://medium.datadriveninvestor.com/from-word-embeddings-to-sentence-embeddings-part-3-3-e67cc4c217d7)
 - [X] [Article: Keyword Extraction with BERT](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea)
 - [X] [YouTube: BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo) `0:11:36`
+- [X] [Article: Keyword Extraction Methods — The Overview](https://towardsdatascience.com/keyword-extraction-methods-the-overview-35557350f8bb)
 
 
 ### Learn to implement Computer Vision Models
