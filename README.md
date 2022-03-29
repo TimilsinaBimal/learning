@@ -271,3 +271,5 @@ Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) `PDF`
 	- [ ] [A delete test for mongoDB](https://www.youtube.com/watch?v=l3yAAETjOeI) `0:10:29`
 	- [ ] [An update test in mongoDB](https://www.youtube.com/watch?v=d3MYSgST48Q) `0:09:10`
 
+- [ ] [JSON and BSON](https://www.mongodb.com/json-and-bson)
+
