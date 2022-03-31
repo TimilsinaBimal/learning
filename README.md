@@ -96,6 +96,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [Learning both Weights and Connections for Efficient Neural Networks (Research Paper Walkthrough)](https://www.youtube.com/watch?v=2fy17SwDHUw) `0:08:53`
 	- [ ] [BERT Goes Shopping: Comparing Distributional Models for Product Representations (Paper Walkthrough)](https://www.youtube.com/watch?v=sz-WGz8gg98) `0:13:51`
 	- [ ] [Improving Unsupervised Dialogue Topic Segmentation with Utterance-Pair Coherence Scoring (Summary)](https://www.youtube.com/watch?v=i8WUJZk5_I8) `0:16:33`
+- [ ] [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 
 
 ### Learn to Implement Natural Language Processing
