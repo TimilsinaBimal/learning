@@ -14,6 +14,8 @@
 - [ ] [Paper: PERT: PRE-TRAINING BERT WITH PERMUTED LANGUAGE MODEL](https://arxiv.org/pdf/2203.06906v1.pdf) `PDF`
 - [X] [Paper: BERT: Pre-training of Deep Bidirectional Transformers for
 Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) `PDF`
+- [ ] [Paper: XLNet: Generalized Autoregressive Pretraining
+for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) PDF`
 
 ### Learn to Perform Scientific Computations using NumPy
 - [ ] [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
