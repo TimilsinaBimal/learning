@@ -227,6 +227,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Article: Keyword Extraction Methods — The Overview](https://towardsdatascience.com/keyword-extraction-methods-the-overview-35557350f8bb)
 - [X] [Article: Autoregressive Models](https://otexts.com/fpp2/AR.html)
 
+### Learn to Process Music and Speech
+- [ ] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
 
 ### Learn to implement Computer Vision Models
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
