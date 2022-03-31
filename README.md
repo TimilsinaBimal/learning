@@ -221,6 +221,7 @@ Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) `PDF`
 - [X] [Article: Keyword Extraction with BERT](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea)
 - [X] [YouTube: BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo) `0:11:36`
 - [X] [Article: Keyword Extraction Methods — The Overview](https://towardsdatascience.com/keyword-extraction-methods-the-overview-35557350f8bb)
+- [X] [Article: Autoregressive Models](https://otexts.com/fpp2/AR.html)
 
 
 ### Learn to implement Computer Vision Models
