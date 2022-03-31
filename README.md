@@ -248,9 +248,9 @@ Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) `PDF`
 	- [X] [UpdateOne and DeleteOne in #mongoDB](https://www.youtube.com/watch?v=EHXczTBSZK0) `0:10:39`
 	- [X] [UpdateMany and deleteMany in mongoDB](https://www.youtube.com/watch?v=QVmcJK-ZR3o) `0:08:22`
 	- [X] [Database issues with Update in mongodb](https://www.youtube.com/watch?v=8suRVB5h5-w) `0:10:19`
-	- [ ] [Getting more data in #mongodb](https://www.youtube.com/watch?v=nvmnuSzhmpg) `0:09:54`
-	- [ ] [Save bandwidth while querying in mongoDB](https://www.youtube.com/watch?v=tpuhvauuOIo) `0:11:28`
-	- [ ] [Understanding objects structure in mongoDB](https://www.youtube.com/watch?v=bcbiP8VFnfc) `0:13:25`
+	- [X] [Getting more data in #mongodb](https://www.youtube.com/watch?v=nvmnuSzhmpg) `0:09:54`
+	- [X] [Save bandwidth while querying in mongoDB](https://www.youtube.com/watch?v=tpuhvauuOIo) `0:11:28`
+	- [X] [Understanding objects structure in mongoDB](https://www.youtube.com/watch?v=bcbiP8VFnfc) `0:13:25`
 	- [ ] [Understanding Arrays in mongoDB](https://www.youtube.com/watch?v=r8mxTAboud8) `0:07:58`
 	- [ ] [What is schema in mongoDB](https://www.youtube.com/watch?v=QiGVCOM-DfY) `0:11:25`
 	- [ ] [Database modeling mongoDB series](https://www.youtube.com/watch?v=N9JDiFiCbRM) `0:09:11`
