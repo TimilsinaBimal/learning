@@ -228,7 +228,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Article: Autoregressive Models](https://otexts.com/fpp2/AR.html)
 
 ### Learn to Process Music and Speech
-- [ ] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
+- [X] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
+- [X] [Youtube: ML for Audio Study Group - Text to Speech Deep Dive](https://www.youtube.com/watch?v=aLBedWj-5CQ) `0:59:07`
 
 ### Learn to implement Computer Vision Models
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
