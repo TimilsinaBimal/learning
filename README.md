@@ -232,7 +232,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Youtube: ML for Audio Study Group - Text to Speech Deep Dive](https://www.youtube.com/watch?v=aLBedWj-5CQ) `0:59:07`
 - [ ] [Youtube: Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
 	- [X] [Audio Signal Processing for Machine Learning](https://www.youtube.com/watch?v=iCwMQJnKk2c) `0:09:37`
-	- [ ] [Sound and Waveforms](https://www.youtube.com/watch?v=bnHHVo3j124) `0:26:53`
+	- [X] [Sound and Waveforms](https://www.youtube.com/watch?v=bnHHVo3j124) `0:26:53`
 	- [ ] [Intensity, Loudness, and Timbre](https://www.youtube.com/watch?v=Jkoysm1fHUw) `0:37:13`
 	- [ ] [Understanding Audio Signals for Machine Learning](https://www.youtube.com/watch?v=daB9naGBVv4) `0:25:16`
 	- [ ] [Types of Audio Features for Machine Learning](https://www.youtube.com/watch?v=ZZ9u1vUtcIA) `0:22:41`
