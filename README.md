@@ -227,9 +227,34 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Article: Keyword Extraction Methods — The Overview](https://towardsdatascience.com/keyword-extraction-methods-the-overview-35557350f8bb)
 - [X] [Article: Autoregressive Models](https://otexts.com/fpp2/AR.html)
 
-### Learn to Process Music and Speech
+### Learn to Process Audio and Speech
 - [X] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
 - [X] [Youtube: ML for Audio Study Group - Text to Speech Deep Dive](https://www.youtube.com/watch?v=aLBedWj-5CQ) `0:59:07`
+- [ ] [Youtube: Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
+	- [X] [Audio Signal Processing for Machine Learning](https://www.youtube.com/watch?v=iCwMQJnKk2c) `0:09:37`
+	- [ ] [Sound and Waveforms](https://www.youtube.com/watch?v=bnHHVo3j124) `0:26:53`
+	- [ ] [Intensity, Loudness, and Timbre](https://www.youtube.com/watch?v=Jkoysm1fHUw) `0:37:13`
+	- [ ] [Understanding Audio Signals for Machine Learning](https://www.youtube.com/watch?v=daB9naGBVv4) `0:25:16`
+	- [ ] [Types of Audio Features for Machine Learning](https://www.youtube.com/watch?v=ZZ9u1vUtcIA) `0:22:41`
+	- [ ] [How to Extract Audio Features](https://www.youtube.com/watch?v=8A-W1xk7qs8) `0:22:18`
+	- [ ] [Understanding Time Domain Audio Features](https://www.youtube.com/watch?v=SRrQ_v-OOSg) `0:19:41`
+	- [ ] [Extracting the amplitude envelope feature from scratch in Python](https://www.youtube.com/watch?v=rlypsap6Wow) `0:33:39`
+	- [ ] [How to Extract Root-Mean Square Energy and Zero-Crossing Rate from Audio](https://www.youtube.com/watch?v=EycaSbIRx-0) `0:32:15`
+	- [ ] [Demystifying the Fourier Transform: The Intuition](https://www.youtube.com/watch?v=XQ45IgG6rJ4) `0:37:17`
+	- [ ] [Complex Numbers for Audio Signal Processing](https://www.youtube.com/watch?v=DgF4m0AWCgA) `0:25:40`
+	- [ ] [Defining the Fourier Transform with Complex Numbers](https://www.youtube.com/watch?v=KxRmbtJWUzI) `0:44:31`
+	- [ ] [Discrete Fourier Transform Explained Easily](https://www.youtube.com/watch?v=ZUi_jdOyxIQ) `0:25:46`
+	- [ ] [How to Extract the Fourier Transform with Python](https://www.youtube.com/watch?v=R-5uxKTRjzM) `0:28:24`
+	- [ ] [Short-Time Fourier Transform Explained Easily](https://www.youtube.com/watch?v=-Yxj3yfvY-4) `0:34:46`
+	- [ ] [How to Extract Spectrograms from Audio with Python](https://www.youtube.com/watch?v=3gzI4Z2OFgY) `0:23:25`
+	- [ ] [Mel Spectrograms Explained Easily](https://www.youtube.com/watch?v=9GHCiiDLHQ4) `0:30:31`
+	- [ ] [Extracting Mel Spectrograms with Python](https://www.youtube.com/watch?v=TdnVE5m3o_0) `0:12:59`
+	- [ ] [Mel-Frequency Cepstral Coefficients Explained Easily](https://www.youtube.com/watch?v=4_SH2nfbQZ8) `0:57:42`
+	- [ ] [Extracting Mel-Frequency Cepstral Coefficients with Python](https://www.youtube.com/watch?v=WJI-17MNpdE) `0:10:52`
+	- [ ] [Frequency-Domain Audio Features](https://www.youtube.com/watch?v=3-bjAoAxQ9o) `0:16:51`
+	- [ ] [Implementing Band Energy Ratio in Python from Scratch](https://www.youtube.com/watch?v=8UJ8ZDR7yUs) `0:28:19`
+	- [ ] [Extracting Spectral Centroid and Bandwidth with Python and Librosa](https://www.youtube.com/watch?v=j6NTatoi928) `0:16:45`
+
 
 ### Learn to implement Computer Vision Models
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
