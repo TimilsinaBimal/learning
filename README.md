@@ -254,6 +254,27 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [Frequency-Domain Audio Features](https://www.youtube.com/watch?v=3-bjAoAxQ9o) `0:16:51`
 	- [ ] [Implementing Band Energy Ratio in Python from Scratch](https://www.youtube.com/watch?v=8UJ8ZDR7yUs) `0:28:19`
 	- [ ] [Extracting Spectral Centroid and Bandwidth with Python and Librosa](https://www.youtube.com/watch?v=j6NTatoi928) `0:16:45`
+- [ ] [Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
+	- [ ] [1- Deep Learning (for Audio) with Python: Course Overview](https://www.youtube.com/watch?v=fMqL5vckiU0) `0:08:01`
+	- [ ] [2- AI, machine learning and deep learning](https://www.youtube.com/watch?v=1LLxZ35ru_g) `0:31:14`
+	- [ ] [3- Implementing an artificial neuron from scratch](https://www.youtube.com/watch?v=qxIaW-WvLDU) `0:19:05`
+	- [ ] [4- Vector and matrix operations](https://www.youtube.com/watch?v=FmD1S5yP_os) `0:25:50`
+	- [ ] [5-  Computation in neural networks](https://www.youtube.com/watch?v=QUCzvlgvk6I) `0:23:19`
+	- [ ] [6- Implementing a neural network from scratch in Python](https://www.youtube.com/watch?v=0oWnheK-gGk) `0:21:03`
+	- [ ] [7- Training a neural network: Backward propagation and gradient descent](https://www.youtube.com/watch?v=ScL18goxsSg) `0:21:40`
+	- [ ] [8- TRAINING A NEURAL NETWORK: Implementing backpropagation and gradient descent from scratch](https://www.youtube.com/watch?v=Z97XGNUUx9o) `1:02:59`
+	- [ ] [9- How to implement a (simple) neural network with TensorFlow 2](https://www.youtube.com/watch?v=JdXxaZcQer8) `0:24:36`
+	- [ ] [10 - Understanding audio data for deep learning](https://www.youtube.com/watch?v=m3XbqfIij_Y) `0:32:55`
+	- [ ] [11- Preprocessing audio data for Deep Learning](https://www.youtube.com/watch?v=Oa_d-zaUti8) `0:25:04`
+	- [ ] [12- Music genre classification: Preparing the dataset](https://www.youtube.com/watch?v=szyGiObZymo) `0:37:44`
+	- [ ] [13- Implementing a neural network for music genre classification](https://www.youtube.com/watch?v=_xcFAiufwd0) `0:33:25`
+	- [ ] [14-  SOLVING OVERFITTING in neural networks](https://www.youtube.com/watch?v=Gf5DO6br0ts) `0:26:29`
+	- [ ] [15- Convolutional Neural Networks Explained Easily](https://www.youtube.com/watch?v=t3qWfUYJEYU) `0:35:23`
+	- [ ] [16- How to Implement a CNN for Music Genre Classification](https://www.youtube.com/watch?v=dOG-HxpbMSw) `0:49:09`
+	- [ ] [17- Recurrent Neural Networks Explained Easily](https://www.youtube.com/watch?v=DY82Goknf0s) `0:28:35`
+	- [ ] [18- Long Short Term Memory (LSTM) Networks Explained Easily](https://www.youtube.com/watch?v=eCvz-kB4yko) `0:28:08`
+	- [ ] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
+
 
 
 ### Learn to implement Computer Vision Models
