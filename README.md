@@ -211,6 +211,13 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [X] [The tokenization pipeline](https://www.youtube.com/watch?v=Yffk5aydLzg) `0:03:23`
 	- [X] [Batching inputs together (PyTorch)](https://www.youtube.com/watch?v=M6adb1j2jPI) `0:02:52`
 	- [X] [Batching inputs together (TensorFlow)](https://www.youtube.com/watch?v=ROxrFOEbsQE) `0:02:51`
+- [X] [Youtube: Hugging Face Course Chapter 3: TensorFlow version](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvXha8ltnkSGDfNCUE59YVm)
+	- [X] [Hugging Face Datasets overview (Tensorflow)](https://www.youtube.com/watch?v=W_gMJF0xomE)                     `0:03:28`
+	- [X] [Preprocessing sentence pairs (TensorFlow)](https://www.youtube.com/watch?v=P-rZWqcB6CE)                     `0:03:09`
+	- [X] [Keras introduction](https://www.youtube.com/watch?v=rnTGBy2ax1c)                     `0:02:50`
+	- [X] [Fine-tuning with TensorFlow](https://www.youtube.com/watch?v=AUozVp78dhk)                     `0:05:04`
+	- [X] [Learning rate scheduling with TensorFlow](https://www.youtube.com/watch?v=cpzq6ESSM5c)                     `0:04:14`
+	- [X] [TensorFlow Predictions and metrics](https://www.youtube.com/watch?v=nx10eh4CoOs)                     `0:04:11`
 
 
 - [ ] [Youtube: Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8) `0:15:00`
