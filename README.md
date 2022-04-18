@@ -285,7 +285,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
 - [ ] [Article: An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 
-
+### Understand the Math Behind Machine Learning Models
+- [X] [Article: A Gentle Introduction to Joint, Marginal, and Conditional Probability](https://machinelearningmastery.com/joint-marginal-and-conditional-probability-for-machine-learning/)
 
 ### Learn to implement Computer Vision Models
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
