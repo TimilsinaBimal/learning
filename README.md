@@ -99,6 +99,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 - [X] [GPT-3: Language Models are Few-Shot Learners (Paper Explained)](https://www.youtube.com/watch?v=SY5PvZrJhLE) `1:04:29`
 - [ ] [Article: BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+- [X] [Article: Understanding XLNet](https://www.borealisai.com/en/blog/understanding-xlnet/)
 
 
 ### Learn to Implement Natural Language Processing
