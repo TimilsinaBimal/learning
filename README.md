@@ -101,6 +101,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Article: BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 - [X] [Article: Understanding XLNet](https://www.borealisai.com/en/blog/understanding-xlnet/)
 - [X] [Article: What is XLNet and why it outperforms BERT](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335)
+- [X] [Article What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3)
 
 
 ### Learn to Implement Natural Language Processing
