@@ -236,6 +236,28 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [YouTube: BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo) `0:11:36`
 - [X] [Article: Keyword Extraction Methods — The Overview](https://towardsdatascience.com/keyword-extraction-methods-the-overview-35557350f8bb)
 - [X] [Article: Autoregressive Models](https://otexts.com/fpp2/AR.html)
+- [ ] [Youtube: CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 1 - Introduction and Word Vectors](https://www.youtube.com/watch?v=rmVRLeJRkl4)                     `1:24:27`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 2 - Neural Classifiers](https://www.youtube.com/watch?v=gqaHkPEZAew)                     `1:15:18`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 3 - Backprop and Neural Networks](https://www.youtube.com/watch?v=X0Jw4kgaFlg)                     `1:22:29`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 4 - Dependency Parsing](https://www.youtube.com/watch?v=PSGIodTN3KE)                     `1:21:22`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 5 - Language Models and RNNs](https://www.youtube.com/watch?v=PLryWeHPcBs)                     `1:19:17`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 6 - Simple and LSTM RNNs](https://www.youtube.com/watch?v=0LixFSa7yts)                     `1:21:38`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 7 - Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=wzfWHP6SXxY)                     `1:18:54`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 8 - Final Projects; Practical Tips](https://www.youtube.com/watch?v=gKD7jPAdbpE)                     `1:20:58`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 9 - Self- Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ)                     `1:16:56`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 10 - Transformers and Pretraining](https://www.youtube.com/watch?v=j9AcEI98C0o)                     `1:21:45`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 11 - Question Answering](https://www.youtube.com/watch?v=NcqfHa0_YmU)                     `1:51:52`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Natural Language Generation](https://www.youtube.com/watch?v=1uMo8olr5ng)                     `1:17:26`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 13 - Coreference Resolution](https://www.youtube.com/watch?v=FFRnDRcbQQU)                     `1:21:45`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 14 - T5 and Large Language Models](https://www.youtube.com/watch?v=iHWkLvoSpTg)                     `1:35:13`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 15 - Add Knowledge to Language Models](https://www.youtube.com/watch?v=y68RJVfGoto)                     `1:17:25`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 16 - Social & Ethical Considerations](https://www.youtube.com/watch?v=-Ldg4qFL6bU)                     `1:51:15`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 17 - Model Analysis and Explanation](https://www.youtube.com/watch?v=f_qmSSBWV_E)                     `1:17:11`
+	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 18 - Future of NLP + Deep Learning](https://www.youtube.com/watch?v=2t7Q9WVUaf8)                     `1:20:05`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2020 | Low Resource Machine Translation](https://www.youtube.com/watch?v=mp95Z5yM92c)                     `1:15:45`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=knTc-NQSjKA)                     `0:54:28`
+
 
 ### Learn to Process Audio and Speech
 - [X] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
