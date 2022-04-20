@@ -21,6 +21,9 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 ### Learn to Perform Scientific Computations using NumPy
 - [ ] [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 
+### Understand Different Machine Learning Algorithms
+- [ ] [Article: A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
 
 ### Understand Research Papers in details
 - [X] [Youtube: Attention Is All You Need - Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro) `0:27:06`
