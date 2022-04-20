@@ -262,8 +262,17 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 
 ### Learn to Process Audio and Speech
-- [X] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
-- [X] [Youtube: ML for Audio Study Group - Text to Speech Deep Dive](https://www.youtube.com/watch?v=aLBedWj-5CQ) `0:59:07`
+#### Getting Started
+	#NONE
+- [ ] []()
+
+#### Basics of Audio Processing
+- [ ] [Article: Understanding the Mel Spectrogram](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
+- [ ] [Article: An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+- [ ] [Article: Waveforms](https://pudding.cool/2018/02/waveforms/)
+
+
+
 - [ ] [Youtube: Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
 	- [X] [Audio Signal Processing for Machine Learning](https://www.youtube.com/watch?v=iCwMQJnKk2c) `0:09:37`
 	- [X] [Sound and Waveforms](https://www.youtube.com/watch?v=bnHHVo3j124) `0:26:53`
@@ -288,6 +297,12 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [Frequency-Domain Audio Features](https://www.youtube.com/watch?v=3-bjAoAxQ9o) `0:16:51`
 	- [ ] [Implementing Band Energy Ratio in Python from Scratch](https://www.youtube.com/watch?v=8UJ8ZDR7yUs) `0:28:19`
 	- [ ] [Extracting Spectral Centroid and Bandwidth with Python and Librosa](https://www.youtube.com/watch?v=j6NTatoi928) `0:16:45`
+
+#### Misc
+
+- [X] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
+- [X] [Youtube: ML for Audio Study Group - Text to Speech Deep Dive](https://www.youtube.com/watch?v=aLBedWj-5CQ) `0:59:07`
+
 - [ ] [Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
 	- [ ] [1- Deep Learning (for Audio) with Python: Course Overview](https://www.youtube.com/watch?v=fMqL5vckiU0) `0:08:01`
 	- [ ] [2- AI, machine learning and deep learning](https://www.youtube.com/watch?v=1LLxZ35ru_g) `0:31:14`
@@ -308,7 +323,6 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [17- Recurrent Neural Networks Explained Easily](https://www.youtube.com/watch?v=DY82Goknf0s) `0:28:35`
 	- [ ] [18- Long Short Term Memory (LSTM) Networks Explained Easily](https://www.youtube.com/watch?v=eCvz-kB4yko) `0:28:08`
 	- [ ] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
-- [ ] [Article: An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 
 ### Understand the Math Behind Machine Learning Models
 - [X] [Article: A Gentle Introduction to Joint, Marginal, and Conditional Probability](https://machinelearningmastery.com/joint-marginal-and-conditional-probability-for-machine-learning/)
