@@ -379,3 +379,6 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 - [ ] [JSON and BSON](https://www.mongodb.com/json-and-bson)
 
+
+### Learn to implement ML Models in Pytorch
+- [ ] [YouTube: Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M) `4:35:41`
