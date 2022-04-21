@@ -266,15 +266,14 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 ### Learn to Process Audio and Speech
 #### Getting Started
-- [X] [Audio Deep Learning Made Simple (Part 1): State-of-the-Art Techniques](https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504)
+- [X] [Article: Audio Deep Learning Made Simple (Part 1): State-of-the-Art Techniques](https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504)
 
 #### Basics of Audio Processing
 - [ ] [Article: Understanding the Mel Spectrogram](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
 - [ ] [Article: An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-- [ ] [Article: Waveforms](https://pudding.cool/2018/02/waveforms/)
-
-
-
+- [X] [Article: Waveforms](https://pudding.cool/2018/02/waveforms/)
+- [X] [Article: Audio Deep Learning Made Simple (Part 2): Why Mel Spectrograms perform better](https://towardsdatascience.com/audio-deep-learning-made-simple-part-2-why-mel-spectrograms-perform-better-aad889a93505)
+- [ ] [Article: Audio Deep Learning Made Simple (Part 3): Data Preparation and Augmentation](https://towardsdatascience.com/audio-deep-learning-made-simple-part-3-data-preparation-and-augmentation-24c6e1f6b52)
 - [ ] [Youtube: Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
 	- [X] [Audio Signal Processing for Machine Learning](https://www.youtube.com/watch?v=iCwMQJnKk2c) `0:09:37`
 	- [X] [Sound and Waveforms](https://www.youtube.com/watch?v=bnHHVo3j124) `0:26:53`
@@ -304,7 +303,6 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 - [X] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
 - [X] [Youtube: ML for Audio Study Group - Text to Speech Deep Dive](https://www.youtube.com/watch?v=aLBedWj-5CQ) `0:59:07`
-
 - [ ] [Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
 	- [ ] [1- Deep Learning (for Audio) with Python: Course Overview](https://www.youtube.com/watch?v=fMqL5vckiU0) `0:08:01`
 	- [ ] [2- AI, machine learning and deep learning](https://www.youtube.com/watch?v=1LLxZ35ru_g) `0:31:14`
