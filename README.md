@@ -336,6 +336,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 ### Learn to Write better Code
 - [ ] [Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
+- [ ] [Article: Programming First Principles – 1. Purpose – What This Series Is About](https://sargalias.com/blog/programming-first-principles-purpose-what-this-series-is-about)
 
 ### Learn to store and query to data into Database
 - [ ] [Youtube: Hitesh Choudhary | MongoDB](https://www.youtube.com/playlist?list=PLzAGFfNxKFualSih9sm4FCRy9L7o_rVY8)
