@@ -302,6 +302,9 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [Frequency-Domain Audio Features](https://www.youtube.com/watch?v=3-bjAoAxQ9o) `0:16:51`
 	- [ ] [Implementing Band Energy Ratio in Python from Scratch](https://www.youtube.com/watch?v=8UJ8ZDR7yUs) `0:28:19`
 	- [ ] [Extracting Spectral Centroid and Bandwidth with Python and Librosa](https://www.youtube.com/watch?v=j6NTatoi928) `0:16:45`
+#### Automatic Speech Recognition
+- [ ] [YouTube: Automatic Speech Recognition - An Overview](https://www.youtube.com/watch?v=q67z7PTGRi8) `1:24:40:`
+- [ ] [Article: A 2019 Guide for Automatic Speech Recognition](https://medium.com/fritzheartbeat/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c)
 
 #### Misc
 
@@ -327,9 +330,6 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [17- Recurrent Neural Networks Explained Easily](https://www.youtube.com/watch?v=DY82Goknf0s) `0:28:35`
 	- [ ] [18- Long Short Term Memory (LSTM) Networks Explained Easily](https://www.youtube.com/watch?v=eCvz-kB4yko) `0:28:08`
 	- [ ] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
-
-#### Automatic Speech Recognition
-- [ ] [YouTube: Automatic Speech Recognition - An Overview](https://www.youtube.com/watch?v=q67z7PTGRi8) `1:24:40:`
 
 ### Understand the Math Behind Machine Learning Models
 - [X] [Article: A Gentle Introduction to Joint, Marginal, and Conditional Probability](https://machinelearningmastery.com/joint-marginal-and-conditional-probability-for-machine-learning/)
