@@ -269,6 +269,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Article: Audio Deep Learning Made Simple (Part 1): State-of-the-Art Techniques](https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504)
 - [ ] [Article: Introduction to Automatic Speech Recognition and Natural Language Processing](https://www.analyticsvidhya.com/blog/2021/01/introduction-to-automatic-speech-recognition-and-natural-language-processing/)
 - [ ] [Article: Intro to Audio Programming, Part 1: How Audio Data is Represented](https://docs.microsoft.com/en-us/archive/blogs/dawate/intro-to-audio-programming-part-1-how-audio-data-is-represented)
+- [ ] [Article: Getting Started with Audio Data Analysis using Deep Learning (with case study)](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
 
 #### Basics of Audio Processing
 - [ ] [Article: Understanding the Mel Spectrogram](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
@@ -309,6 +310,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 #### Automatic Speech Recognition
 - [ ] [YouTube: Automatic Speech Recognition - An Overview](https://www.youtube.com/watch?v=q67z7PTGRi8) `1:24:40:`
 - [ ] [Article: A 2019 Guide for Automatic Speech Recognition](https://medium.com/fritzheartbeat/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c)
+- [ ] [Article: Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com%2F@medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 
 #### Misc
 
