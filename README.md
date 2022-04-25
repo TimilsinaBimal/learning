@@ -311,6 +311,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [YouTube: Automatic Speech Recognition - An Overview](https://www.youtube.com/watch?v=q67z7PTGRi8) `1:24:40:`
 - [ ] [Article: A 2019 Guide for Automatic Speech Recognition](https://medium.com/fritzheartbeat/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c)
 - [ ] [Article: Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com%2F@medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+- [ ] [YouTube: Lecture 12: End-to-End Models for Speech Processing](https://www.youtube.com/watch?v=3MjIkWxXigM) `1:16:34`
 
 #### Misc
 
