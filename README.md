@@ -267,6 +267,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 ### Learn to Process Audio and Speech
 #### Getting Started
 - [X] [Article: Audio Deep Learning Made Simple (Part 1): State-of-the-Art Techniques](https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504)
+- [ ] [Article: Introduction to Automatic Speech Recognition and Natural Language Processing](https://www.analyticsvidhya.com/blog/2021/01/introduction-to-automatic-speech-recognition-and-natural-language-processing/)
+- [ ] [Article: Intro to Audio Programming, Part 1: How Audio Data is Represented](https://docs.microsoft.com/en-us/archive/blogs/dawate/intro-to-audio-programming-part-1-how-audio-data-is-represented)
 
 #### Basics of Audio Processing
 - [ ] [Article: Understanding the Mel Spectrogram](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
@@ -302,6 +304,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [Frequency-Domain Audio Features](https://www.youtube.com/watch?v=3-bjAoAxQ9o) `0:16:51`
 	- [ ] [Implementing Band Energy Ratio in Python from Scratch](https://www.youtube.com/watch?v=8UJ8ZDR7yUs) `0:28:19`
 	- [ ] [Extracting Spectral Centroid and Bandwidth with Python and Librosa](https://www.youtube.com/watch?v=j6NTatoi928) `0:16:45`
+- [ ] [Article:10 Audio Processing Tasks to get you started with Deep Learning Applications (with Case Studies)](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
 #### Automatic Speech Recognition
 - [ ] [YouTube: Automatic Speech Recognition - An Overview](https://www.youtube.com/watch?v=q67z7PTGRi8) `1:24:40:`
 - [ ] [Article: A 2019 Guide for Automatic Speech Recognition](https://medium.com/fritzheartbeat/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c)
