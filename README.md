@@ -264,6 +264,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 18 - Future of NLP + Deep Learning](https://www.youtube.com/watch?v=2t7Q9WVUaf8)                     `1:20:05`
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2020 | Low Resource Machine Translation](https://www.youtube.com/watch?v=mp95Z5yM92c)                     `1:15:45`
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=knTc-NQSjKA)                     `0:54:28`
+- [ ] [Article: How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 
 ### Learn to Process Audio and Speech
