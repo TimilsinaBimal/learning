@@ -105,6 +105,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Article: Understanding XLNet](https://www.borealisai.com/en/blog/understanding-xlnet/)
 - [X] [Article: What is XLNet and why it outperforms BERT](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335)
 - [X] [Article What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3)
+- [ ] [Review: Highway Networks — Gating Function To Highway (Image Classification)](https://towardsdatascience.com/review-highway-networks-gating-function-to-highway-image-classification-5a33833797b5)
 
 
 ### Learn to Implement Natural Language Processing
