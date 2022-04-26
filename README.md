@@ -317,6 +317,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Tutorial: A Journey to Speech Recognition Using TensorFlow](https://medium.com/swlh/a-journey-to-speech-recognition-using-tensorflow-1fc1169fef99)
 - [ ] [Tutorial: Simple audio recognition: Recognizing keywords](https://www.tensorflow.org/tutorials/audio/simple_audio)
 
+#### Text To Speech
+- [ ] [Speech synthesis: A review of the best text to speech architectures with Deep Learning](https://theaisummer.com/text-to-speech/)
 #### Misc
 
 - [X] [Speech Synthesis Techniques using Deep Neural Networks](https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861)
