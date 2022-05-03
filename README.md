@@ -327,6 +327,9 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Article: Text To Speech — Lifelike Speech Synthesis Demo (Part 1)](https://towardsdatascience.com/text-to-speech-lifelike-speech-synthesis-demo-part-1-f991ffe9e41e)
 - [ ] [Article: How to prepare a dataset for neural Text-To-Speech — Part 1: Text Preparation](https://voicelab.ai/how-to-prepare-a-dataset-for-neural-text-to-speech-part-1-text-preparation/)
 - [X] [Artice: Tacotron 2: Generating Human-like Speech from Text](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html) 
+- [ ] [Article: Tacotron-2 : Implementation and Experiments](https://medium.com/@rajanieprabha/tacotron-2-implementation-and-experiments-832695b1c86e)
+
+
 #### Misc
 - [ ] [Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
 	- [ ] [1- Deep Learning (for Audio) with Python: Course Overview](https://www.youtube.com/watch?v=fMqL5vckiU0) `0:08:01`
