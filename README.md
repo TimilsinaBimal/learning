@@ -355,6 +355,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 ### Understand the Math Behind Machine Learning Models
 - [X] [Article: A Gentle Introduction to Joint, Marginal, and Conditional Probability](https://machinelearningmastery.com/joint-marginal-and-conditional-probability-for-machine-learning/)
+- [ ] [edx: Fundamentals of Statistics](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2022/home)
 
 ### Learn to implement Computer Vision Models
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
