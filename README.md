@@ -9,6 +9,7 @@
 
 ### Books
 - [ ] [Online: Dive into Deep Learning](https://d2l.ai/)
+- [ ] [Naked Statistics: Stripping the Dread from the Data](https://www.pdfdrive.com/naked-statistics-stripping-the-dread-from-the-data-e177487997.html) `PDF`
 
 ### Learn to Perform Literature Review Using Research Papers
 - [ ] [Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) `PDF`
