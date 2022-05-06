@@ -358,6 +358,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Article: A Gentle Introduction to Joint, Marginal, and Conditional Probability](https://machinelearningmastery.com/joint-marginal-and-conditional-probability-for-machine-learning/)
 - [ ] [edx: Fundamentals of Statistics](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2022/home)
 - [ ] [edx: Probability - The Science of Uncertainty and Data](https://learning.edx.org/course/course-v1:MITx+6.431x+1T2022/home)
+- [ ] [Article: Why Momentum Really Works](https://distill.pub/2017/momentum/)
 
 ### Learn to implement Computer Vision Models
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
