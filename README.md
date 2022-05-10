@@ -330,6 +330,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Artice: Tacotron 2: Generating Human-like Speech from Text](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html) 
 - [ ] [Article: Tacotron-2 : Implementation and Experiments](https://medium.com/@rajanieprabha/tacotron-2-implementation-and-experiments-832695b1c86e)
 
+#### Speech Diarization
+- [ ] [Article: Who spoke when! How to Build your own Speaker Diarization Module](https://medium.com/saarthi-ai/who-spoke-when-build-your-own-speaker-diarization-module-from-scratch-e7d725ee279)
 
 #### Misc
 - [ ] [Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
