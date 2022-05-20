@@ -313,6 +313,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Article:10 Audio Processing Tasks to get you started with Deep Learning Applications (with Case Studies)](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
 - [ ] [Practice Problem: Urban Sound Classification](https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification/)
 - [ ] [Tutorial: Audio Data Preparation and Augmentation](https://www.tensorflow.org/io/tutorials/audio)
+- [X] [Understanding Spectrograms](https://www.izotope.com/en/learn/understanding-spectrograms.html)
 #### Automatic Speech Recognition
 - [ ] [YouTube: Automatic Speech Recognition - An Overview](https://www.youtube.com/watch?v=q67z7PTGRi8) `1:24:40:`
 - [ ] [Article: A 2019 Guide for Automatic Speech Recognition](https://medium.com/fritzheartbeat/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c)
