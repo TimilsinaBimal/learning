@@ -314,6 +314,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Practice Problem: Urban Sound Classification](https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification/)
 - [ ] [Tutorial: Audio Data Preparation and Augmentation](https://www.tensorflow.org/io/tutorials/audio)
 - [X] [Understanding Spectrograms](https://www.izotope.com/en/learn/understanding-spectrograms.html)
+- 
 #### Automatic Speech Recognition
 - [ ] [YouTube: Automatic Speech Recognition - An Overview](https://www.youtube.com/watch?v=q67z7PTGRi8) `1:24:40:`
 - [ ] [Article: A 2019 Guide for Automatic Speech Recognition](https://medium.com/fritzheartbeat/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c)
@@ -321,6 +322,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [YouTube: Lecture 12: End-to-End Models for Speech Processing](https://www.youtube.com/watch?v=3MjIkWxXigM) `1:16:34`
 - [ ] [Tutorial: A Journey to Speech Recognition Using TensorFlow](https://medium.com/swlh/a-journey-to-speech-recognition-using-tensorflow-1fc1169fef99)
 - [ ] [Tutorial: Simple audio recognition: Recognizing keywords](https://www.tensorflow.org/tutorials/audio/simple_audio)
+- [ ] [Article: Sequence Modeling With CTC](https://distill.pub/2017/ctc/)
 
 #### Text To Speech
 - [X] [Article: Speech synthesis: A review of the best text to speech architectures with Deep Learning](https://theaisummer.com/text-to-speech/)
