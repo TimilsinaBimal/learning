@@ -337,6 +337,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 #### Speech Diarization
 - [ ] [Article: Who spoke when! How to Build your own Speaker Diarization Module](https://medium.com/saarthi-ai/who-spoke-when-build-your-own-speaker-diarization-module-from-scratch-e7d725ee279)
 - [ ] [Voice Separation with an Unknown Number of Multiple Speakers](https://enk100.github.io/speaker_separation/)
+- [ ] [Looking to Listen: Audio-Visual Speech Separation](https://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html)
 
 #### Misc
 - [ ] [Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
