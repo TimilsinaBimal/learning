@@ -362,6 +362,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [18- Long Short Term Memory (LSTM) Networks Explained Easily](https://www.youtube.com/watch?v=eCvz-kB4yko) `0:28:08`
 	- [ ] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
 - [ ] [Article: State Of The Art of Speech Synthesis at the End of May 2021](https://towardsdatascience.com/state-of-the-art-of-speech-synthesis-at-the-end-of-may-2021-6ace4fd512f2)
+- [ ] [Article: Data Augmentation for Speech Recognition](https://towardsdatascience.com/data-augmentation-for-speech-recognition-e7c607482e78)
 
 ### Understand the Math Behind Machine Learning Models
 - [X] [Article: A Gentle Introduction to Joint, Marginal, and Conditional Probability](https://machinelearningmastery.com/joint-marginal-and-conditional-probability-for-machine-learning/)
