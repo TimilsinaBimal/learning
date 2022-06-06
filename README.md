@@ -111,6 +111,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Article: Imagen- unprecedented photorealism × deep level of language understanding](https://imagen.research.google/)
 - [X] [Article: WaveNet: A generative model for raw audio](https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio)
 - [X] [Youtube: DeepMind's WaveNet : How it works, and how it is evolving - TensorFlow and Deep Learning](https://www.youtube.com/watch?v=YyUXG-BfDbE) `0:38:11`
+- [ ] [Article: WaveNet](https://www.deepmind.com/research/highlighted-research/wavenet)
 
 
 ### Learn to Implement Natural Language Processing
