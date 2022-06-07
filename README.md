@@ -1,3 +1,6 @@
+### Learning Motivation
+- [ ] [James Clear](https://jamesclear.com/)
+
 ### Repositories
 - [ ] [GitHub: Learning](https://github.com/amitness/learning)
 - [ ] [Website: The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
