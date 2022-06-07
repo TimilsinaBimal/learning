@@ -25,6 +25,7 @@
 Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) `PDF`
 - [ ] [Paper: XLNet: Generalized Autoregressive Pretraining
 for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
+- [ ] [Paper: NATURAL TTS SYNTHESIS BY CONDITIONING WAVENET ON MEL SPECTROGRAM PREDICTIONS](https://arxiv.org/pdf/1712.05884.pdf) `PDF`
 
 ### Learn to Perform Scientific Computations using NumPy
 - [ ] [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
