@@ -389,6 +389,9 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Youtube: What is the BLEU metric?](https://www.youtube.com/watch?v=M05L1DhFqcw) `0:04:41`
 
 
+### Learn to Deploy ML Models to production
+- [ ] [Article: How to Deploy Real-Time Text-to-Speech Applications on GPUs Using TensorRT](https://developer.nvidia.com/blog/how-to-deploy-real-time-text-to-speech-applications-on-gpus-using-tensorrt/)
+
 ### Learn to Write better Code
 - [ ] [Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
 - [ ] [Article: Programming First Principles – 1. Purpose – What This Series Is About](https://sargalias.com/blog/programming-first-principles-purpose-what-this-series-is-about)
