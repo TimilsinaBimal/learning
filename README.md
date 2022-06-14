@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Learning Motivation
 - [ ] [James Clear](https://jamesclear.com/)
 
@@ -486,4 +485,3 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 ### Computer Vision
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
->>>>>>> eb82993 (ADD: Scripts)
