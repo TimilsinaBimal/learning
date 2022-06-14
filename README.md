@@ -381,6 +381,9 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [edx: Fundamentals of Statistics](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2022/home)
 - [ ] [edx: Probability - The Science of Uncertainty and Data](https://learning.edx.org/course/course-v1:MITx+6.431x+1T2022/home)
 - [ ] [Article: Why Momentum Really Works](https://distill.pub/2017/momentum/)
+
+#### Linear Algebra
+
 - [ ] [Youtube: Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 	- [X] [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c)                     `0:39:49`
 	- [ ] [2. Elimination with Matrices.](https://www.youtube.com/watch?v=QVKj3LADCnA)                     `0:47:41`
