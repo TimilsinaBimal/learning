@@ -381,6 +381,42 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [edx: Fundamentals of Statistics](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2022/home)
 - [ ] [edx: Probability - The Science of Uncertainty and Data](https://learning.edx.org/course/course-v1:MITx+6.431x+1T2022/home)
 - [ ] [Article: Why Momentum Really Works](https://distill.pub/2017/momentum/)
+- [ ] [Youtube: Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+	- [X] [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c)                     `0:39:49`
+	- [ ] [2. Elimination with Matrices.](https://www.youtube.com/watch?v=QVKj3LADCnA)                     `0:47:41`
+	- [ ] [3. Multiplication and Inverse Matrices](https://www.youtube.com/watch?v=FX4C-JpTFgY)                     `0:46:48`
+	- [ ] [Lec 4 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=5hO3MrzPa0A)                     `0:50:20`
+	- [ ] [5. Transposes, Permutations, Spaces R^n](https://www.youtube.com/watch?v=JibVXBElKL0)                     `0:47:41`
+	- [ ] [6. Column Space and Nullspace](https://www.youtube.com/watch?v=8o5Cmfpeo6g)                     `0:46:01`
+	- [ ] [7. Solving Ax = 0: Pivot Variables, Special Solutions](https://www.youtube.com/watch?v=VqP2tREMvt0)                     `0:43:19`
+	- [ ] [8. Solving Ax = b: Row Reduced Form R](https://www.youtube.com/watch?v=9Q1q7s1jTzU)                     `0:47:19`
+	- [ ] [9. Independence, Basis, and Dimension](https://www.youtube.com/watch?v=yjBerM5jWsc)                     `0:50:14`
+	- [ ] [10. The Four Fundamental Subspaces](https://www.youtube.com/watch?v=nHlE7EgJFds)                     `0:49:20`
+	- [ ] [11. Matrix Spaces; Rank 1; Small World Graphs](https://www.youtube.com/watch?v=2IdtqGM6KWU)                     `0:45:55`
+	- [ ] [12. Graphs, Networks, Incidence Matrices](https://www.youtube.com/watch?v=6-wh6yvk6uc)                     `0:47:57`
+	- [ ] [13. Quiz 1 Review](https://www.youtube.com/watch?v=l88D4r74gtM)                     `0:47:40`
+	- [ ] [14. Orthogonal Vectors and Subspaces](https://www.youtube.com/watch?v=YzZUIYRCE38)                     `0:49:47`
+	- [ ] [15. Projections onto Subspaces](https://www.youtube.com/watch?v=Y_Ac6KiQ1t0)                     `0:48:51`
+	- [ ] [16. Projection Matrices and Least Squares](https://www.youtube.com/watch?v=osh80YCg_GM)                     `0:48:05`
+	- [ ] [Lec 17 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=uNsCkP9mgRk)                     `0:49:24`
+	- [ ] [18. Properties of Determinants](https://www.youtube.com/watch?v=srxexLishgY)                     `0:49:12`
+	- [ ] [19. Determinant Formulas and Cofactors](https://www.youtube.com/watch?v=23LLB9mNJvc)                     `0:53:17`
+	- [ ] [20. Cramer's Rule, Inverse Matrix, and Volume](https://www.youtube.com/watch?v=QNpj-gOXW9M)                     `0:51:01`
+	- [ ] [Lec 21 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=lXNXrLcoerU)                     `0:51:22`
+	- [ ] [22. Diagonalization and Powers of A](https://www.youtube.com/watch?v=13r9QY6cmjc)                     `0:51:50`
+	- [ ] [23. Differential Equations and exp(At)](https://www.youtube.com/watch?v=IZqwi0wJovM)                     `0:51:03`
+	- [ ] [Lec 24 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=8MF3pz-oYHo)                     `0:51:11`
+	- [ ] [Lec 24b  | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=sFxA8eIS6tA)                     `0:48:20`
+	- [ ] [Lec 25 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=umt6BB1nJ4w)                     `0:43:52`
+	- [ ] [26. Complex Matrices; Fast Fourier Transform](https://www.youtube.com/watch?v=M0Sa8fLOajA)                     `0:47:52`
+	- [ ] [27. Positive Definite Matrices and Minima](https://www.youtube.com/watch?v=vF7eyJ2g3kU)                     `0:50:40`
+	- [ ] [Lec 28 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=z_zYQHmrh08)                     `0:45:56`
+	- [ ] [Lec 29 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=Nx0lRBaXoz4)                     `0:41:35`
+	- [ ] [30. Linear Transformations and Their Matrices](https://www.youtube.com/watch?v=Ts3o2I8_Mxc)                     `0:49:27`
+	- [ ] [Lec 31 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=vGkn-3NFGck)                     `0:50:13`
+	- [ ] [32. Quiz 3 Review](https://www.youtube.com/watch?v=HgC1l_6ySkc)                     `0:47:05`
+	- [ ] [33. Left and Right Inverses; Pseudoinverse](https://www.youtube.com/watch?v=Go2aLo7ZOlU)                     `0:41:52`
+	- [ ] [34. Final Course Review](https://www.youtube.com/watch?v=RWvi4Vx4CDc)                     `0:43:26`
 
 ### Learn to implement Computer Vision Models
 - [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
@@ -443,7 +479,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 ### Learn to implement ML Models in TensorFlow
 - [ ] [Article: Write your own Custom Data Generator for TensorFlow Keras](https://medium.com/analytics-vidhya/write-your-own-custom-data-generator-for-tensorflow-keras-1252b64e41c3)
-=======
+
+
 ## Repos
 - [ ] [GitHub: Learning](https://github.com/amitness/learning)
 
