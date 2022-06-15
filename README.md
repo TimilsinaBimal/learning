@@ -328,6 +328,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Tutorial: Audio Data Preparation and Augmentation](https://www.tensorflow.org/io/tutorials/audio)
 - [X] [Understanding Spectrograms](https://www.izotope.com/en/learn/understanding-spectrograms.html)
 - [X] [Speech Separation by Facebook AI Research](https://www.analyticsvidhya.com/blog/2021/08/speech-separation-by-facebook-ai-research/)
+- [ ] [Article: Audio Denoiser: A Speech Enhancement Deep Learning Model](https://www.analyticsvidhya.com/blog/2022/03/audio-denoiser-a-speech-enhancement-deep-learning-model/)
 
 #### Automatic Speech Recognition
 - [ ] [YouTube: Automatic Speech Recognition - An Overview](https://www.youtube.com/watch?v=q67z7PTGRi8) `1:24:40:`
