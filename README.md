@@ -285,7 +285,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [Deep Learning 62:  Introduction to Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=nPkZGg-As7E)                     `0:17:33`
 	- [ ] [Deep Learning 63: (Part A) Architecture of Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=dZWfcRCAZlo)                     `0:12:14`
 	- [ ] [Deep Learning 64: (Part B) Backpropgtation in Time (BPTT) for Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=phOVApJHjsU)                     `0:31:23`
-	- [ ] [Deep Learning 65: (Part C) Vanishing Gradients in Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=0kyCuYiN93c) 
+	- [ ] [Deep Learning 65: (Part C) Vanishing Gradients in Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=0kyCuYiN93c) `0:15:07`
 
 
 ### Learn to Process Audio and Speech
