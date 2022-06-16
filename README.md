@@ -280,6 +280,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Article: How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 - [ ] [Course: A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [ ] [Article: Why are Cosine Similarities of Text embeddings almost always positive?](https://medium.com/@vaibhavgarg1982/why-are-cosine-similarities-of-text-embeddings-almost-always-positive-6bd31eaee4d5)
+- [ ] [Article: 10 Surveys About Popular NLP Areas](https://medium.com/nlplanet/10-surveys-about-popular-nlp-areas-7a4537c3bcaf)
 
 
 ### Learn to Process Audio and Speech
