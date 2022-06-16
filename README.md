@@ -281,6 +281,11 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Course: A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [ ] [Article: Why are Cosine Similarities of Text embeddings almost always positive?](https://medium.com/@vaibhavgarg1982/why-are-cosine-similarities-of-text-embeddings-almost-always-positive-6bd31eaee4d5)
 - [ ] [Article: 10 Surveys About Popular NLP Areas](https://medium.com/nlplanet/10-surveys-about-popular-nlp-areas-7a4537c3bcaf)
+- [ ] [Youtube: Recurrent Neural Networks](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAPGGoti2azCqQciyQ9ElLaB)
+	- [ ] [Deep Learning 62:  Introduction to Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=nPkZGg-As7E)                     `0:17:33`
+	- [ ] [Deep Learning 63: (Part A) Architecture of Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=dZWfcRCAZlo)                     `0:12:14`
+	- [ ] [Deep Learning 64: (Part B) Backpropgtation in Time (BPTT) for Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=phOVApJHjsU)                     `0:31:23`
+	- [ ] [Deep Learning 65: (Part C) Vanishing Gradients in Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=0kyCuYiN93c) 
 
 
 ### Learn to Process Audio and Speech
