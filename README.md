@@ -287,7 +287,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [Deep Learning 64: (Part B) Backpropgtation in Time (BPTT) for Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=phOVApJHjsU)                     `0:31:23`
 	- [ ] [Deep Learning 65: (Part C) Vanishing Gradients in Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=0kyCuYiN93c) `0:15:07`
 
-
+#### Transliteration
+- [ ] [Article: What is Transliteration? How is it different from Translation?](https://medium.com/neuralspace/what-is-transliteration-how-is-it-different-from-translation-16fff6c3e0cc)
 ### Learn to Process Audio and Speech
 #### Getting Started
 - [X] [Article: Audio Deep Learning Made Simple (Part 1): State-of-the-Art Techniques](https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504)
