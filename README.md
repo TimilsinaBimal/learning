@@ -434,7 +434,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [34. Final Course Review](https://www.youtube.com/watch?v=RWvi4Vx4CDc)                     `0:43:26`
 
 ### Learn to implement Computer Vision Models
-- [ ] [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
+- [ ] [Article: An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
+- [X] [Article: Beginner’s guide to learn computer vision in 2021](https://towardsdatascience.com/beginners-guide-to-learn-computer-vision-in-2021-6083ab6de6af)
 
 ### Learn to evaluate Machine Learning Models
 - [ ] [Youtube: What is the BLEU metric?](https://www.youtube.com/watch?v=M05L1DhFqcw) `0:04:41`
