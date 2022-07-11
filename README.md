@@ -291,7 +291,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [X] [Article: What is Transliteration? How is it different from Translation?](https://medium.com/neuralspace/what-is-transliteration-how-is-it-different-from-translation-16fff6c3e0cc)
 - [X] [Article: Transliteration and Sound Reproduction between Languages can be a big Problem](https://jfinn6511.medium.com/transliteration-and-sound-reproduction-between-languages-can-be-a-big-problem-5e7ae678a8c1)
 - [X] [Article: Automatic transliteration with LSTM](https://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/)
-
+- [ ] [Article: Build a Recurrent Neural Network from Scratch in Python 3](https://pythonalgos.com/build-a-recurrent-neural-network-from-scratch-in-python-3/)
 
 ### Learn to Process Audio and Speech
 #### Getting Started
