@@ -444,6 +444,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 
 ### Learn to Deploy ML Models to production
 - [ ] [Article: How to Deploy Real-Time Text-to-Speech Applications on GPUs Using TensorRT](https://developer.nvidia.com/blog/how-to-deploy-real-time-text-to-speech-applications-on-gpus-using-tensorrt/)
+- [ ] [Article: Optimizing TensorFlow Models for Inference](https://medium.com/tinyclues-vision/optimizing-tensorflow-models-for-inference-d3636cf34034)
 
 ### Learn to Write better Code
 - [ ] [Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
