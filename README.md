@@ -121,6 +121,9 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [Article: WaveNet](https://www.deepmind.com/research/highlighted-research/wavenet)
 - [ ] [YouTube: Tacotron 2 - THE BEST TEXT TO SPEECH AI YET!](https://www.youtube.com/watch?v=le1LH4nPfmE) `0:07:17`
 
+### Docker and Containerization
+- [X] [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+
 
 ### Learn to Implement Natural Language Processing
 - [X] [Article: What is teacher Forcing?](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
