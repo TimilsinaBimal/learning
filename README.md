@@ -122,7 +122,8 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 - [ ] [YouTube: Tacotron 2 - THE BEST TEXT TO SPEECH AI YET!](https://www.youtube.com/watch?v=le1LH4nPfmE) `0:07:17`
 
 ### Docker and Containerization
-- [X] [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+- [X] [Article: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+- [X] [Article: Deploying conda environments in (Docker) containers - how to do it right](https://uwekorn.com/2021/03/01/deploying-conda-environments-in-docker-how-to-do-it-right.html)
 
 
 ### Learn to Implement Natural Language Processing
