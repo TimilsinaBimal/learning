@@ -124,6 +124,7 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 ### Docker and Containerization
 - [X] [Article: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
 - [X] [Article: Deploying conda environments in (Docker) containers - how to do it right](https://uwekorn.com/2021/03/01/deploying-conda-environments-in-docker-how-to-do-it-right.html)
+- [ ] [Article: Using Your GPU in a Docker Container](https://blog.roboflow.com/use-the-gpu-in-docker/)
 
 
 ### Learn to Implement Natural Language Processing
