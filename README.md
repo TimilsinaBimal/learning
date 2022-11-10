@@ -1,14 +1,33 @@
-### Learning Motivation
-- [ ] [James Clear](https://jamesclear.com/)
+### 
 
-### Repositories
-- [ ] [GitHub: Learning](https://github.com/amitness/learning)
-- [ ] [Website: The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
-- [ ] [GitHub: Machine Learning Articles](https://github.com/christianversloot/machine-learning-articles)
+<details>
+<summary>Learning Motivation</summary>
 
-### Websites
-- [ ] [The AI Summer](https://theaisummer.com/)
-- [ ] [Learn AI from Top Universities Through these 10 Courses](https://medium.com/towards-artificial-intelligence/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b)
+|Concept|Resource|Done|
+|---|---|---|	
+||[James Clear](https://jamesclear.com/)||
+</details>
+<details>
+<summary>Repositories</summary>
+
+|Concept|Resource|
+|---|---|
+||[GitHub: Learning](https://github.com/amitness/learning)|
+||[Website: The Super Duper NLP Repo](https://notebooks.quantumstat.com/)|
+||[GitHub: Machine Learning Articles](https://github.com/christianversloot/machine-learning-articles)|
+
+</details>
+
+
+<details>
+<summary>Websites</summary>
+
+|Concept|Resource|
+|---|---|
+||[The AI Summer](https://theaisummer.com/)|
+||[Learn AI from Top Universities Through these 10 Courses](https://medium.com/towards-artificial-intelligence/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b)|
+
+</details>
 
 ### Books
 - [ ] [Online: Dive into Deep Learning](https://d2l.ai/)
