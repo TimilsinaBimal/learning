@@ -29,6 +29,15 @@
 
 </details>
 
+<details>
+<summary>Computer Vision</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+||[Article: Selective Search for Object Detection](https://learnopencv.com/selective-search-for-object-detection-cpp-python/)|✓|
+
+</details>
+
 ### Books
 - [ ] [Online: Dive into Deep Learning](https://d2l.ai/)
 - [ ] [Naked Statistics: Stripping the Dread from the Data](https://www.pdfdrive.com/naked-statistics-stripping-the-dread-from-the-data-e177487997.html) `PDF`
