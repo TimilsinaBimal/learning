@@ -35,6 +35,7 @@
 |Concept|Resource|Done|
 |---|---|---|
 ||[Article: Selective Search for Object Detection](https://learnopencv.com/selective-search-for-object-detection-cpp-python/)|✓|
+|Face Recognition|[Detecting Faces (Viola Jones Algorithm) - Computerphile](https://www.youtube.com/watch?v=uEJ71VlUmMQ)|✓|
 
 </details>
 
