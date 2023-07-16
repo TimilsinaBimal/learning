@@ -46,6 +46,13 @@
 ### Useful Libraries and Frameworks
 - [textdistance 4.2.2](https://pypi.org/project/textdistance/) - python library for comparing distance between two or more sequences by many algorithms.
 
+### Neural Networks and Deep Learning
+#### Forward Propagation
+#### Backward Propagation
+#### Activation Functions
+#### Loss Functions
+#### Optimization Techniques
+
 ### Learn to Perform Literature Review Using Research Papers
 - [ ] [Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) `PDF`
 - [X] [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473) `PDF`
