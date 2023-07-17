@@ -1,5 +1,3 @@
-### 
-
 <details>
 <summary>Learning Motivation</summary>
 
@@ -34,30 +32,43 @@
 
 |Concept|Resource|Done|
 |---|---|---|
-||[Article: Selective Search for Object Detection](https://learnopencv.com/selective-search-for-object-detection-cpp-python/)|✓|
-|Face Recognition|[Detecting Faces (Viola Jones Algorithm) - Computerphile](https://www.youtube.com/watch?v=uEJ71VlUmMQ)|✓|
+||[Article: Selective Search for Object Detection](https://learnopencv.com/selective-search-for-object-detection-cpp-python/)|&check;|
+|Face Recognition|[Detecting Faces (Viola Jones Algorithm) - Computerphile](https://www.youtube.com/watch?v=uEJ71VlUmMQ)|&check;|
 
 </details>
 
-### Books
-- [ ] [Online: Dive into Deep Learning](https://d2l.ai/)
-- [ ] [Naked Statistics: Stripping the Dread from the Data](https://www.pdfdrive.com/naked-statistics-stripping-the-dread-from-the-data-e177487997.html) `PDF`
+<details>
+<summary>Books</summary>
 
-### Useful Libraries and Frameworks
-- [textdistance 4.2.2](https://pypi.org/project/textdistance/) - python library for comparing distance between two or more sequences by many algorithms.
+|Concept|Resource|Done|
+|---|---|---|
+|Deep Learning|[Online: Dive into Deep Learning](https://d2l.ai/)||
+|Statistics|[Naked Statistics: Stripping the Dread from the Data](https://www.pdfdrive.com/naked-statistics-stripping-the-dread-from-the-data-e177487997.html) `PDF`||
 
-### Neural Networks and Deep Learning
+</details>
+
+
+<details>
+<summary>Useful Libraries</summary>
+
+|Library|Description|
+|---|---|
+|[textdistance 4.2.2](https://pypi.org/project/textdistance/) |python library for comparing distance between two or more sequences by many algorithms.|
+
+</details>
+
+
 <details>
 <summary>Neural Networks and Deep Learning</summary>
 	
 |Concept|Resource|Done|
 |---|---|---|
-|Forward Propagation| [Article: Forward propagation in neural networks — Simplified math and code version](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250)|✓ |
-||[Youtube:Forward Propagation in a Deep Network (C1W4L02)](https://www.youtube.com/watch?v=a8i2eJin0lY)| ✓|
-|Backward Propagation| | ✓|
-|Activation Functions| |✓|
-|Loss Functions| |✓|
-|Optimization Techniques| |✓|
+|Forward Propagation| [Article: Forward propagation in neural networks — Simplified math and code version](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250)|&check; |
+||[Youtube:Forward Propagation in a Deep Network (C1W4L02)](https://www.youtube.com/watch?v=a8i2eJin0lY)| &check;|
+|Backward Propagation| | |
+|Activation Functions| ||
+|Loss Functions| ||
+|Optimization Techniques| ||
 </details>
 
 ### Learn to Perform Literature Review Using Research Papers
