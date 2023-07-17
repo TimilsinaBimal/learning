@@ -47,11 +47,18 @@
 - [textdistance 4.2.2](https://pypi.org/project/textdistance/) - python library for comparing distance between two or more sequences by many algorithms.
 
 ### Neural Networks and Deep Learning
-#### Forward Propagation
-#### Backward Propagation
-#### Activation Functions
-#### Loss Functions
-#### Optimization Techniques
+<details>
+<summary>Neural Networks and Deep Learning</summary>
+	
+|Concept|Resource|Done|
+|---|---|---|
+|Forward Propagation| [Article: Forward propagation in neural networks — Simplified math and code version](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250)|✓ |
+||[Youtube:Forward Propagation in a Deep Network (C1W4L02)](https://www.youtube.com/watch?v=a8i2eJin0lY)| ✓|
+|Backward Propagation| | ✓|
+|Activation Functions| |✓|
+|Loss Functions| |✓|
+|Optimization Techniques| |✓|
+</details>
 
 ### Learn to Perform Literature Review Using Research Papers
 - [ ] [Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) `PDF`
