@@ -65,6 +65,7 @@
 |---|---|---|
 |Forward Propagation| [Article: Forward propagation in neural networks — Simplified math and code version](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250)|&check; |
 ||[Youtube:Forward Propagation in a Deep Network (C1W4L02)](https://www.youtube.com/watch?v=a8i2eJin0lY)| &check;|
+||[Article:What’s The Role Of Weights And Bias In a Neural Network?](https://towardsdatascience.com/whats-the-role-of-weights-and-bias-in-a-neural-network-4cf7e9888a0f)|&check;|
 |Backward Propagation| | |
 |Activation Functions| ||
 |Loss Functions| ||
