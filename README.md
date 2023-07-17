@@ -67,6 +67,7 @@
 ||[Youtube:Forward Propagation in a Deep Network (C1W4L02)](https://www.youtube.com/watch?v=a8i2eJin0lY)| &check;|
 ||[Article:What’s The Role Of Weights And Bias In a Neural Network?](https://towardsdatascience.com/whats-the-role-of-weights-and-bias-in-a-neural-network-4cf7e9888a0f)|&check;|
 |Backward Propagation| [Article:Understanding Backpropagation Algorithm](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|&check;|
+||[Youtube: Lecture 5: Backpropagation and Project Advice](https://www.youtube.com/watch?v=isPiE-DBagM&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)||
 |Activation Functions| ||
 |Loss Functions|[Article:A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)||
 |Optimization Techniques| ||
