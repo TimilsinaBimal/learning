@@ -68,7 +68,7 @@
 ||[Article:What’s The Role Of Weights And Bias In a Neural Network?](https://towardsdatascience.com/whats-the-role-of-weights-and-bias-in-a-neural-network-4cf7e9888a0f)|&check;|
 |Backward Propagation| [Article:Understanding Backpropagation Algorithm](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|&check;|
 |Activation Functions| ||
-|Loss Functions| ||
+|Loss Functions|[Article:A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)||
 |Optimization Techniques| ||
 </details>
 
