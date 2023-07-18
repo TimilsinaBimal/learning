@@ -73,6 +73,7 @@
 ||[How the Backpropagation Algorithm Works](http://neuralnetworksanddeeplearning.com/chap2.html)||
 |Activation Functions| [Article: Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)||
 |Loss Functions|[Article:A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)||
+||[Article:Cross-Entropy Loss Function](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)|&check;|
 |Optimization Techniques| ||
 |Misc|[Article:Understand the Impact of Learning Rate on Neural Network Performance](https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/)||
 </details>
