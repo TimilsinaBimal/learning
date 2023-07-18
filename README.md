@@ -69,7 +69,7 @@
 |Backward Propagation| [Article:Understanding Backpropagation Algorithm](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|&check;|
 ||[Youtube: Lecture 5: Backpropagation and Project Advice](https://www.youtube.com/watch?v=isPiE-DBagM&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)||
 ||[Paper: Learning Representations by back-propagating Errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)||
-||[Article: How does Backpropagation works in Neural Networks](https://towardsdatascience.com/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48)||
+||[Article: How does Backpropagation works in Neural Networks](https://towardsdatascience.com/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48)|&check;|
 ||[How the Backpropagation Algorithm Works](http://neuralnetworksanddeeplearning.com/chap2.html)||
 |Activation Functions| [Article: Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)||
 |Loss Functions|[Article:A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)||
