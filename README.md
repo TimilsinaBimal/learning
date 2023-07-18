@@ -72,6 +72,7 @@
 ||[Article: How does Backpropagation works in Neural Networks](https://towardsdatascience.com/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48)|&check;|
 ||[How the Backpropagation Algorithm Works](http://neuralnetworksanddeeplearning.com/chap2.html)||
 |Activation Functions| [Article: Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)||
+||[Article: Softmax Activation Function: How it actually Works](https://towardsdatascience.com/softmax-activation-function-how-it-actually-works-d292d335bd78)||
 |Loss Functions|[Article:A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)||
 ||[Article:Cross-Entropy Loss Function](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)|&check;|
 |Optimization Techniques| ||
