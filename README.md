@@ -501,7 +501,13 @@ for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf) `PDF`
 	- [ ] [34. Final Course Review](https://www.youtube.com/watch?v=RWvi4Vx4CDc)                     `0:43:26`
 
 ### Learn to implement Computer Vision Models
-- [X] [Article:Understanding “convolution” operations in CNN](https://medium.com/analytics-vidhya/understanding-convolution-operations-in-cnn-1914045816d4)
+- [X] [Article: Understanding “convolution” operations in CNN](https://medium.com/analytics-vidhya/understanding-convolution-operations-in-cnn-1914045816d4)
+- [ ] [Article: Convolutional Neural Networks (CNNs / ConvNets)
+](https://cs231n.github.io/convolutional-networks/)
+- [ ] [Article: Convolutional Neural Networks, Explained](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+- [ ] [Article: How to Visualize Filters and Feature Maps in Convolutional Neural Networks](https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/)
+- [ ] [Youtube: How Convolutional Neural Networks Work, in depth](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
+- [X] [Article: Convolutional Neural Networks for Beginners](https://serokell.io/blog/introduction-to-convolutional-neural-networks)
 - [ ] [Article: An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
 - [X] [Article: Beginner’s guide to learn computer vision in 2021](https://towardsdatascience.com/beginners-guide-to-learn-computer-vision-in-2021-6083ab6de6af)
 - [ ] [How to extract structured data from invoices](https://medium.com/nanonets/how-to-extract-structured-data-from-invoices-f7de539eb475)
