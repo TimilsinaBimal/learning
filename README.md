@@ -77,6 +77,7 @@
 ||[Article:Cross-Entropy Loss Function](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)|&check;|
 |Optimization Techniques| ||
 |Misc|[Article:Understand the Impact of Learning Rate on Neural Network Performance](https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/)||
+|Recurrent Neural Networks| [Article: A Brief Overview of Recurrent Neural Networks (RNN)](https://www.analyticsvidhya.com/blog/2022/03/a-brief-overview-of-recurrent-neural-networks-rnn/)|&check;|
 </details>
 
 ### Learn to Perform Literature Review Using Research Papers
