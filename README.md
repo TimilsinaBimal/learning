@@ -78,6 +78,7 @@
 |Optimization Techniques| ||
 |Misc|[Article:Understand the Impact of Learning Rate on Neural Network Performance](https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/)||
 |Recurrent Neural Networks| [Article: A Brief Overview of Recurrent Neural Networks (RNN)](https://www.analyticsvidhya.com/blog/2022/03/a-brief-overview-of-recurrent-neural-networks-rnn/)|&check;|
+||[Article: Recurrent Neural Networks (RNNs)](https://towardsdatascience.com/recurrent-neural-networks-rnns-3f06d7653a85)||
 </details>
 
 ### Learn to Perform Literature Review Using Research Papers
