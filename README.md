@@ -82,6 +82,16 @@
 |Transformers|[Youtube:Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)|&check;|
 </details>
 
+<details>
+<summary>Machine Learning Operations (MLOps)</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+||[Article: Knowledge Distillation: Principles, Algorithms, Applications](https://neptune.ai/blog/knowledge-distillation)|
+
+</details>
+
+
 ### Learn to Perform Literature Review Using Research Papers
 - [ ] [Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) `PDF`
 - [X] [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473) `PDF`
