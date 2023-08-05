@@ -87,8 +87,8 @@
 
 |Concept|Resource|Done|
 |---|---|---|
-||[Article: Knowledge Distillation: Principles, Algorithms, Applications](https://neptune.ai/blog/knowledge-distillation)|
-
+||[Article: Knowledge Distillation: Principles, Algorithms, Applications](https://neptune.ai/blog/knowledge-distillation)||
+||[Knowledge Distillation: Theory and End to End Case Study](https://www.analyticsvidhya.com/blog/2022/01/knowledge-distillation-theory-and-end-to-end-case-study/)|
 </details>
 
 
