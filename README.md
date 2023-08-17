@@ -79,8 +79,18 @@
 |Misc|[Article:Understand the Impact of Learning Rate on Neural Network Performance](https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/)||
 |Recurrent Neural Networks| [Article: A Brief Overview of Recurrent Neural Networks (RNN)](https://www.analyticsvidhya.com/blog/2022/03/a-brief-overview-of-recurrent-neural-networks-rnn/)|&check;|
 ||[Article: Recurrent Neural Networks (RNNs)](https://towardsdatascience.com/recurrent-neural-networks-rnns-3f06d7653a85)||
+
+</details>
+
+<details>
+<summary>Transformers and Large Language Models</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
 |Transformers|[Youtube:Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)|&check;|
 </details>
+
+
 
 <details>
 <summary>Machine Learning Operations (MLOps)</summary>
