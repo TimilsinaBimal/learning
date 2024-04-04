@@ -88,7 +88,7 @@
 |Concept|Resource|Done|
 |---|---|---|
 |Transformers|[Youtube:Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)|&check;|
-|LLM Inference|[Article: Mastering LLM Techniques: Inference Optimization]([https://www.youtube.com/watch?v=4Bdc55j80l8](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)||
+|LLM Inference|[Article: Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)||
 </details>
 
 
