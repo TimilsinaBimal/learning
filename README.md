@@ -82,6 +82,20 @@
 
 </details>
 
+
+<details>
+<summary>LLM Alignment</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+|Introduction|[Article: Aligning language models to follow instructions](https://openai.com/index/instruction-following/)|&check;|
+||[Paper: InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)||
+</details>
+
+
+
+
+
 <details>
 <summary>Transformers and Large Language Models</summary>
 
