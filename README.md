@@ -414,6 +414,19 @@
 |Deep Learning 65: (Part C) Vanishing Gradients in Recurrent Neural Network (RNN)|[YouTube](https://www.youtube.com/watch?v=0kyCuYiN93c) `0:15:07`||
 </details>
 
+## Table of Contents
+
+- [Interpretability - Papers](#interpretability---papers)
+
 ## Interpretability - Papers
+
+<details>
+<summary>Show</summary>
+
+|Concept|Resource|Status|
+|---|---|---|
+||[Diff-in-Means Concept Editing is Worst-Case Optimal \| EleutherAI Blog](https://blog.eleuther.ai/diff-in-means/)|📖|
+
+</details>
 
 - [ ] [Universal Adversarial Triggers Are Not Universal](https://arxiv.org/html/2404.16020v1#bib.bib13)
