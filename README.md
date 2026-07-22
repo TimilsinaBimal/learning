@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [Interpretability - Papers](#interpretability---papers)
+- [Mechanistic Interpretability](#mechanistic-interpretability)
 
 ## Mechanistic Interpretability
 
