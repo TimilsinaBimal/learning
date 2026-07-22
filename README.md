@@ -413,3 +413,7 @@
 |Deep Learning 64: (Part B) Backpropgtation in Time (BPTT) for Recurrent Neural Network (RNN)|[YouTube](https://www.youtube.com/watch?v=phOVApJHjsU) `0:31:23`||
 |Deep Learning 65: (Part C) Vanishing Gradients in Recurrent Neural Network (RNN)|[YouTube](https://www.youtube.com/watch?v=0kyCuYiN93c) `0:15:07`||
 </details>
+
+## Interpretability - Papers
+
+- [ ] [Universal Adversarial Triggers Are Not Universal](https://arxiv.org/html/2404.16020v1#bib.bib13)
