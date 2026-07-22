@@ -2,7 +2,7 @@
 
 - [Interpretability - Papers](#interpretability---papers)
 
-## Interpretability - Papers
+## Mechanistic Interpretability
 
 |Concept|Resource|Status|Type|
 |---|---|---|---|
