@@ -14,6 +14,7 @@
 ||[Universal Adversarial Triggers Are Not Universal](https://arxiv.org/html/2404.16020v1#bib.bib13)|❌|Paper|
 ||[A Pragmatic Vision for Interpretability — AI Alignment Forum](https://www.alignmentforum.org/posts/StENzDcD3kpfGJssR/a-pragmatic-vision-for-interpretability)|❌|Article|
 ||[How Can Interpretability Researchers Help AGI Go Well? — AI Alignment Forum](https://www.alignmentforum.org/posts/MnkeepcGirnJn736j/how-can-interpretability-researchers-help-agi-go-well)|❌|Article|
+||[AI-in-Transportation-Lab/awesome-mechanistic-interpretability: A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Mechanistic Interpretability, a growing subfield in machine learning interpretability research that aims to reverse-engineer neural networks into understandable computational components.](https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability)|❌|Repository|
 
 ## Alignment
 
