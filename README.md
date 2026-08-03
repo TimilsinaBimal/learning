@@ -25,6 +25,7 @@
 ||[Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment](https://huggingface.co/blog/NormalUhr/rlhf-pipeline)|❌|Article|
 ||[RLHF Book: Reinforcement Learning from Human Feedback and LLM Post-Training](https://rlhfbook.com/)|❌|Article|
 ||[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347)|❌|Paper|
+||[Understanding PPO from first principles – ML without tears](https://mlwithouttears.com/2025/11/17/understanding-ppo-from-first-principles/)|❌|Article|
 
 ## Large Language Models
 
