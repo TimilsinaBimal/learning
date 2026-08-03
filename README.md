@@ -41,3 +41,4 @@
 |Concept|Resource|Status|Type|
 |---|---|---|---|
 ||[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/pdf/2605.23904)|❌|Paper|
+||[2605.15184v1 Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184v1)|❌|Paper|
