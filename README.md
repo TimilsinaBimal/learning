@@ -13,6 +13,7 @@
 ||[Diff-in-Means Concept Editing is Worst-Case Optimal \| EleutherAI Blog](https://blog.eleuther.ai/diff-in-means/)|📖|
 ||[Universal Adversarial Triggers Are Not Universal](https://arxiv.org/html/2404.16020v1#bib.bib13)|❌|Paper|
 ||[A Pragmatic Vision for Interpretability — AI Alignment Forum](https://www.alignmentforum.org/posts/StENzDcD3kpfGJssR/a-pragmatic-vision-for-interpretability)|❌|Article|
+||[How Can Interpretability Researchers Help AGI Go Well? — AI Alignment Forum](https://www.alignmentforum.org/posts/MnkeepcGirnJn736j/how-can-interpretability-researchers-help-agi-go-well)|❌|Article|
 
 ## Alignment
 
