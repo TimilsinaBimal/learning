@@ -22,3 +22,4 @@
 |Concept|Resource|Status|Type|
 |---|---|---|---|
 ||[Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment](https://huggingface.co/blog/NormalUhr/rlhf-pipeline)|❌|Article|
+||[RLHF Book: Reinforcement Learning from Human Feedback and LLM Post-Training](https://rlhfbook.com/)|❌|Article|
