@@ -4,6 +4,7 @@
 - [Alignment](#alignment)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Large Language Models](#large-language-models)
+- [Agents](#agents)
 
 ## Mechanistic Interpretability
 
@@ -34,3 +35,9 @@
 |---|---|---|---|
 ||[A Visual Guide to Attention Variants in Modern LLMs](https://magazine.sebastianraschka.com/p/visual-attention-variants)|❌|Article|
 ||[LLM Architecture Gallery \| Sebastian Raschka, PhD](https://sebastianraschka.com/llm-architecture-gallery/#card-llama-3-8b)|❌|Article|
+
+## Agents
+
+|Concept|Resource|Status|Type|
+|---|---|---|---|
+||[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/pdf/2605.23904)|❌|Paper|
