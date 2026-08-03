@@ -3,6 +3,7 @@
 - [Mechanistic Interpretability](#mechanistic-interpretability)
 - [Alignment](#alignment)
 - [Reinforcement Learning](#reinforcement-learning)
+- [Large Language Models](#large-language-models)
 
 ## Mechanistic Interpretability
 
@@ -24,3 +25,9 @@
 ||[Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment](https://huggingface.co/blog/NormalUhr/rlhf-pipeline)|❌|Article|
 ||[RLHF Book: Reinforcement Learning from Human Feedback and LLM Post-Training](https://rlhfbook.com/)|❌|Article|
 ||[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347)|❌|Paper|
+
+## Large Language Models
+
+|Concept|Resource|Status|Type|
+|---|---|---|---|
+||[A Visual Guide to Attention Variants in Modern LLMs](https://magazine.sebastianraschka.com/p/visual-attention-variants)|❌|Article|
