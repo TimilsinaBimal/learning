@@ -18,6 +18,7 @@
 ||[2501.16496 Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496)|❌|Paper|
 ||[Transformer Circuits Thread](https://transformer-circuits.pub/)|❌|Article|
 ||[2301.05217 Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)|❌|Paper|
+||[2302.03025 A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations](https://arxiv.org/abs/2302.03025)|❌|Paper|
 
 ## Alignment
 
