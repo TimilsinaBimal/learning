@@ -17,6 +17,7 @@
 ||[AI-in-Transportation-Lab/awesome-mechanistic-interpretability: A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Mechanistic Interpretability, a growing subfield in machine learning interpretability research that aims to reverse-engineer neural networks into understandable computational components.](https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability)|❌|Repository|
 ||[2501.16496 Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496)|❌|Paper|
 ||[Transformer Circuits Thread](https://transformer-circuits.pub/)|❌|Article|
+||[2301.05217 Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)|❌|Paper|
 
 ## Alignment
 
