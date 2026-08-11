@@ -19,6 +19,7 @@
 ||[Transformer Circuits Thread](https://transformer-circuits.pub/)|❌|Article|
 ||[2301.05217 Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)|❌|Paper|
 ||[2302.03025 A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations](https://arxiv.org/abs/2302.03025)|❌|Paper|
+||[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)|❌|Article|
 
 ## Alignment
 
