@@ -5,6 +5,7 @@
 - [Reinforcement Learning](#reinforcement-learning)
 - [Large Language Models](#large-language-models)
 - [Agents](#agents)
+- [Mathematics](#mathematics)
 
 ## Mechanistic Interpretability
 
@@ -51,3 +52,9 @@
 |---|---|---|---|
 ||[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/pdf/2605.23904)|❌|Paper|
 ||[2605.15184v1 Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184v1)|❌|Paper|
+
+## Mathematics
+
+|Concept|Resource|Status|Type|
+|---|---|---|---|
+||[Algebrica \| A Mathematical Knowledge Base](https://algebrica.org/)|❌|Book|
