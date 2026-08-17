@@ -6,6 +6,7 @@
 - [Large Language Models](#large-language-models)
 - [Agents](#agents)
 - [Mathematics](#mathematics)
+- [System Design](#system-design)
 
 ## Mechanistic Interpretability
 
@@ -58,3 +59,9 @@
 |Concept|Resource|Status|Type|
 |---|---|---|---|
 ||[Algebrica \| A Mathematical Knowledge Base](https://algebrica.org/)|❌|Book|
+
+## System Design
+
+|Concept|Resource|Status|Type|
+|---|---|---|---|
+||[Notes of the book System Desgin Interview - An Insider's Guide](https://github.com/liquidslr/system-design-notes)|❌|Repository|
