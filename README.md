@@ -39,6 +39,7 @@
 ||[Understanding PPO from first principles – ML without tears](https://mlwithouttears.com/2025/11/17/understanding-ppo-from-first-principles/)|❌|Article|
 ||[PPO for LLMs: A Guide for Normal People](https://cameronrwolfe.substack.com/p/ppo-llm)|❌|Article|
 ||[Policy Gradient Methods - FeynmanWiki](https://www.feynmanwiki.com/library/policy-gradient-methods)|❌|Article|
+||[Reinforcement Learning for LLMs: The Complete Guide](https://cameronrwolfe.substack.com/p/llm-rl)|❌|Article|
 
 ## Large Language Models
 
