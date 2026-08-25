@@ -23,6 +23,7 @@
 ||[2302.03025 A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations](https://arxiv.org/abs/2302.03025)|❌|Paper|
 ||[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)|❌|Article|
 ||[Induction heads - illustrated — LessWrong](https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated)|❌|Article|
+||[How To Become A Mechanistic Interpretability Researcher — AI Alignment Forum](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)|❌|Article|
 
 ## Alignment
 
