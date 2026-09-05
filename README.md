@@ -43,6 +43,7 @@
 ||[Policy Gradient Methods - FeynmanWiki](https://www.feynmanwiki.com/library/policy-gradient-methods)|❌|Article|
 ||[Reinforcement Learning for LLMs: The Complete Guide](https://cameronrwolfe.substack.com/p/llm-rl)|❌|Article|
 ||[dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)|❌|Repository|
+||[Hands-on Modern RL](https://walkinglabs.github.io/hands-on-modern-rl/en/)|❌|Article|
 
 ## Large Language Models
 
