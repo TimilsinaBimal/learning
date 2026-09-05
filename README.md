@@ -27,6 +27,7 @@
 ||[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html#model-simplifications)|❌|Article|
 ||[what-can-activation-patching-tell-us-about-adversarial-examples.pdf](https://cs231n.stanford.edu/2024/papers/what-can-activation-patching-tell-us-about-adversarial-examples.pdf)|❌|PDF|
 ||[2211.00593](https://arxiv.org/pdf/2211.00593)|❌|Paper|
+||[Redwood Research blog \| Buck Shlegeris \| Substack](https://blog.redwoodresearch.org/)|❌|Article|
 
 ## Alignment
 
