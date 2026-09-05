@@ -76,3 +76,4 @@
 |Concept|Resource|Status|Type|
 |---|---|---|---|
 ||[Notes of the book System Desgin Interview - An Insider's Guide](https://github.com/liquidslr/system-design-notes)|❌|Repository|
+||[Git at any scale · Cursor](https://cursor.com/blog/git-at-any-scale)|❌|Article|
