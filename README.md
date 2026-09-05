@@ -25,6 +25,7 @@
 ||[Induction heads - illustrated — LessWrong](https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated)|❌|Article|
 ||[How To Become A Mechanistic Interpretability Researcher — AI Alignment Forum](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)|❌|Article|
 ||[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html#model-simplifications)|❌|Article|
+||[what-can-activation-patching-tell-us-about-adversarial-examples.pdf](https://cs231n.stanford.edu/2024/papers/what-can-activation-patching-tell-us-about-adversarial-examples.pdf)|❌|PDF|
 
 ## Alignment
 
