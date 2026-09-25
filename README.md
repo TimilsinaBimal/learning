@@ -30,6 +30,7 @@
 ||[Redwood Research blog \| Buck Shlegeris \| Substack](https://blog.redwoodresearch.org/)|❌|Article|
 |Induction Heads|[2306.00802 Birth of a Transformer: A Memory Viewpoint](https://arxiv.org/abs/2306.00802)|❌|Paper|
 |Induction Heads|[What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation](https://arxiv.org/pdf/2404.07129)|❌|Paper|
+|Ablation|[Towards Best Practices of Activation Patching in Language Models: Metrics and Methods](https://arxiv.org/pdf/2309.16042)|❌|Paper|
 
 ## Alignment
 
